@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_golem_statue",
+      "required": false
+    }
+  ]
+}

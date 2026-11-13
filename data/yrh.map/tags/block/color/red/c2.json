@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:iron_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:pitcher_crop",
+      "required": false
+    }
+  ]
+}

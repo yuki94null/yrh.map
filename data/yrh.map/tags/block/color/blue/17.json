@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dark_oak_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_rose",
+      "required": false
+    }
+  ]
+}

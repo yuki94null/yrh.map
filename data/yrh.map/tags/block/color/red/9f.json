@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:allium",
+      "required": false
+    },
+    {
+      "id": "minecraft:dried_ghast",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_stone",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_stone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_lightning_rod",
+      "required": false
+    }
+  ]
+}

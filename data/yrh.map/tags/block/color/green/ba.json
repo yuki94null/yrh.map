@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral",
+      "required": false
+    }
+  ]
+}

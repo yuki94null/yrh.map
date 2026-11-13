@@ -1,0 +1,181 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:anvil",
+      "required": false
+    },
+    {
+      "id": "minecraft:campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:cartography_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:chipped_anvil",
+      "required": false
+    },
+    {
+      "id": "minecraft:cracked_deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:damaged_anvil",
+      "required": false
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt_path",
+      "required": false
+    },
+    {
+      "id": "minecraft:farmland",
+      "required": false
+    },
+    {
+      "id": "minecraft:flowering_azalea",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:shelf_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:shroomlight",
+      "required": false
+    },
+    {
+      "id": "minecraft:smithing_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:sniffer_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower_crop",
+      "required": false
+    },
+    {
+      "id": "minecraft:wall_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:wet_sponge",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "required": false
+    }
+  ]
+}

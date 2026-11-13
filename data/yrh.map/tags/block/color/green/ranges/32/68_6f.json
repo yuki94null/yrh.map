@@ -1,0 +1,401 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:carrots",
+      "required": false
+    },
+    {
+      "id": "minecraft:coal_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_wall_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_tube_coral",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_diamond_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_emerald_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:detector_rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:furnace",
+      "required": false
+    },
+    {
+      "id": "minecraft:grass_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:large_fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:moss_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:moss_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:moving_piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:packed_mud",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_hanging_moss",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:piston_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:potted_fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:powered_rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:raw_copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeating_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:rooted_dirt",
+      "required": false
+    },
+    {
+      "id": "minecraft:shelf_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:short_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:sniffer_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:sticky_piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:tall_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chain",
+      "required": false
+    }
+  ]
+}

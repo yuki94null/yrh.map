@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cinnabar",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_poplar_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_chain",
+      "required": false
+    }
+  ]
+}

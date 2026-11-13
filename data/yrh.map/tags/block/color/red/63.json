@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dispenser",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_hanging_moss",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_wall",
+      "required": false
+    }
+  ]
+}

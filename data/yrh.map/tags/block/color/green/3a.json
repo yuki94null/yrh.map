@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gray_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_cinnabar",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_cinnabar_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_cinnabar_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_cinnabar_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_block",
+      "required": false
+    }
+  ]
+}

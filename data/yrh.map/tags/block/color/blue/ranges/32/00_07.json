@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:barrier",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_wart_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_wire",
+      "required": false
+    },
+    {
+      "id": "minecraft:tall_seagrass",
+      "required": false
+    },
+    {
+      "id": "minecraft:weeping_vines",
+      "required": false
+    }
+  ]
+}

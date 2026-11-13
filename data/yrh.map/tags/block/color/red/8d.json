@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:crimson_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_wall_sign",
+      "required": false
+    }
+  ]
+}

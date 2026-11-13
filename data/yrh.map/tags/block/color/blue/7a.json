@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dead_horn_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:twisting_vines_plant",
+      "required": false
+    }
+  ]
+}

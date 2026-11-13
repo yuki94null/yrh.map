@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cherry_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_wall_sign",
+      "required": false
+    }
+  ]
+}

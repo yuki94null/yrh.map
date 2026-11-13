@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:badlands",
+      "required": false
+    },
+    {
+      "id": "minecraft:beach",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_dark",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:eroded_badlands",
+      "required": false
+    },
+    {
+      "id": "minecraft:plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:stony_peaks",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower_plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooded_badlands",
+      "required": false
+    }
+  ]
+}

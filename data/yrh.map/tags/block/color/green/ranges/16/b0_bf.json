@@ -1,0 +1,169 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:bubble_column",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:diorite",
+      "required": false
+    },
+    {
+      "id": "minecraft:diorite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:diorite_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:fletching_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:frosted_ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:packed_ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_petals",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_birch_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:wet_sponge",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_shulker_box",
+      "required": false
+    }
+  ]
+}

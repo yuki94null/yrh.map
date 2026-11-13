@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:crimson_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_trapdoor",
+      "required": false
+    }
+  ]
+}

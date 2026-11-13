@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bubble_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_stone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_stone_bricks",
+      "required": false
+    }
+  ]
+}

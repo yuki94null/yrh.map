@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:azalea_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_vines",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_vines_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:crying_obsidian",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:flowering_azalea_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:respawn_anchor",
+      "required": false
+    },
+    {
+      "id": "minecraft:spawner",
+      "required": false
+    }
+  ]
+}

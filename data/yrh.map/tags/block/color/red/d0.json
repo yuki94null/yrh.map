@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "required": false
+    }
+  ]
+}

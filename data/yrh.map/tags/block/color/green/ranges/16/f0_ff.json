@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:ochre_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:powder_snow",
+      "required": false
+    },
+    {
+      "id": "minecraft:snow",
+      "required": false
+    },
+    {
+      "id": "minecraft:snow_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_bed",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:purple_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeater",
+      "required": false
+    },
+    {
+      "id": "minecraft:sandstone_wall",
+      "required": false
+    }
+  ]
+}

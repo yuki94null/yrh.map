@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:azure_bluet",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_concrete_stairs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_bricks",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:attached_melon_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:attached_pumpkin_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:pumpkin_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:raw_copper_block",
+      "required": false
+    }
+  ]
+}

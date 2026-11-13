@@ -1,0 +1,265 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:carved_pumpkin",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_resin_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:cracked_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_hyphae",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_red_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_gateway",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal",
+      "required": false
+    },
+    {
+      "id": "minecraft:ender_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:honeycomb_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:jack_o_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:obsidian",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:podzol",
+      "required": false
+    },
+    {
+      "id": "minecraft:pumpkin",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_clump",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:straw_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_shulker_box",
+      "required": false
+    }
+  ]
+}

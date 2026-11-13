@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:infested_stone",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bubble_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_poplar_wood",
+      "required": false
+    }
+  ]
+}

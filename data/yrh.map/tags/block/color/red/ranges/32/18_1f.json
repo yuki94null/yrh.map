@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:calibrated_sculk_sensor",
+      "required": false
+    },
+    {
+      "id": "minecraft:lapis_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_shrieker",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_void",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower_crop",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_bed",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:fletching_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_birch_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:tall_dry_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_lightning_rod",
+      "required": false
+    }
+  ]
+}

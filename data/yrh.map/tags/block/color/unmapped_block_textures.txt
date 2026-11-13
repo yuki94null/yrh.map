@@ -1,0 +1,3 @@
+minecraft:air: missingno.png
+minecraft:cave_air: missingno.png
+minecraft:void_air: missingno.png

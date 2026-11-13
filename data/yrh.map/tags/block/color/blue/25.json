@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:golden_dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_bed",
+      "required": false
+    }
+  ]
+}

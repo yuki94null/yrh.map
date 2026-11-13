@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:orange_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_glazed_terracotta",
+      "required": false
+    }
+  ]
+}

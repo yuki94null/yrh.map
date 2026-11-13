@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dead_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_iron_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:lapis_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_moss_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_moss_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_wall_hanging_sign",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_tube_coral",
+      "required": false
+    },
+    {
+      "id": "minecraft:short_dry_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_stairs",
+      "required": false
+    }
+  ]
+}

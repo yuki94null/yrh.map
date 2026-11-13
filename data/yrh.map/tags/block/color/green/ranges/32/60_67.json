@@ -1,0 +1,289 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:barrel",
+      "required": false
+    },
+    {
+      "id": "minecraft:brewing_stand",
+      "required": false
+    },
+    {
+      "id": "minecraft:brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:budding_amethyst",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:closed_eyeblossom",
+      "required": false
+    },
+    {
+      "id": "minecraft:crafter",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_red_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_gold_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_iron_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt",
+      "required": false
+    },
+    {
+      "id": "minecraft:dispenser",
+      "required": false
+    },
+    {
+      "id": "minecraft:dropper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:farmland",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:granite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:granite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:granite_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:ladder",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:mycelium",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:observer",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:peony",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:pointed_dripstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sandstone_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:sea_pickle",
+      "required": false
+    },
+    {
+      "id": "minecraft:shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:small_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower_crop",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_chain",
+      "required": false
+    }
+  ]
+}

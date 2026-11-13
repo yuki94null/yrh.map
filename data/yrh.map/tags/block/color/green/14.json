@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cracked_nether_bricks",
+      "required": false
+    }
+  ]
+}

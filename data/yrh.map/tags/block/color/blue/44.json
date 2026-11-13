@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:sniffer_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:terracotta",
+      "required": false
+    }
+  ]
+}

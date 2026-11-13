@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:composter",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:magma_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:vine",
+      "required": false
+    }
+  ]
+}

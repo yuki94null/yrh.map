@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_coral",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_poplar_leaves",
+      "required": false
+    }
+  ]
+}

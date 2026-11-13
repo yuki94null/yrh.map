@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cherry_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_bars",
+      "required": false
+    }
+  ]
+}

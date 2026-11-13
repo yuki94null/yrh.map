@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:light_blue_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_rose",
+      "required": false
+    }
+  ]
+}

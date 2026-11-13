@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dead_tube_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:suspicious_gravel",
+      "required": false
+    }
+  ]
+}

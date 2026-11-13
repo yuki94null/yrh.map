@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:big_dripleaf",
+      "required": false
+    },
+    {
+      "id": "minecraft:respawn_anchor",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_acacia_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_spruce_wood",
+      "required": false
+    }
+  ]
+}

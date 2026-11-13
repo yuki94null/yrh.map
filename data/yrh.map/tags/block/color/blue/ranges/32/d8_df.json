@@ -1,0 +1,109 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:beacon",
+      "required": false
+    },
+    {
+      "id": "minecraft:calcite",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_quartz_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_petals",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_pillar",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_shulker_box",
+      "required": false
+    }
+  ]
+}

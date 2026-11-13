@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cherry_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_poplar_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:tripwire",
+      "required": false
+    }
+  ]
+}

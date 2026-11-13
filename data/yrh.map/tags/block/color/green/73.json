@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:big_dripleaf_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:hanging_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:small_dripleaf",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_wall_torch",
+      "required": false
+    }
+  ]
+}

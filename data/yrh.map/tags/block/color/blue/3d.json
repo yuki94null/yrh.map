@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud",
+      "required": false
+    }
+  ]
+}

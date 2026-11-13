@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_door",
+      "required": false
+    }
+  ]
+}

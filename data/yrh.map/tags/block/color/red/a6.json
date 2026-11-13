@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:comparator",
+      "required": false
+    },
+    {
+      "id": "minecraft:hay_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:raw_iron_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_acacia_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_jungle_log",
+      "required": false
+    }
+  ]
+}

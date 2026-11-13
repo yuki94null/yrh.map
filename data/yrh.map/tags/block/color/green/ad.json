@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_bamboo_block",
+      "required": false
+    }
+  ]
+}

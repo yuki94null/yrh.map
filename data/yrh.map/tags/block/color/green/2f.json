@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_mushroom_block",
+      "required": false
+    }
+  ]
+}

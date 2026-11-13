@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:nether_sprouts",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_warped_hyphae",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_door",
+      "required": false
+    }
+  ]
+}

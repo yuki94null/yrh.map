@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:barrier",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:crying_obsidian",
+      "required": false
+    },
+    {
+      "id": "minecraft:dragon_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_gateway",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal",
+      "required": false
+    },
+    {
+      "id": "minecraft:ender_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_portal",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_wart_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:obsidian",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_wire",
+      "required": false
+    },
+    {
+      "id": "minecraft:weeping_vines",
+      "required": false
+    }
+  ]
+}

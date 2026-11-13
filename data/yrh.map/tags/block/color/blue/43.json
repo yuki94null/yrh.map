@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cartography_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower_crop",
+      "required": false
+    }
+  ]
+}

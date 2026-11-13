@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cobblestone",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobblestone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobblestone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobblestone_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_cobblestone",
+      "required": false
+    },
+    {
+      "id": "minecraft:lever",
+      "required": false
+    },
+    {
+      "id": "minecraft:open_eyeblossom",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_lightning_rod",
+      "required": false
+    }
+  ]
+}

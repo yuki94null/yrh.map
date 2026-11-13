@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_copper_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_glazed_terracotta",
+      "required": false
+    }
+  ]
+}

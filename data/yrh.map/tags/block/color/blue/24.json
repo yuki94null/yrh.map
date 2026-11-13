@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_wood",
+      "required": false
+    }
+  ]
+}

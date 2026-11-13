@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:leaf_litter",
+      "required": false
+    }
+  ]
+}

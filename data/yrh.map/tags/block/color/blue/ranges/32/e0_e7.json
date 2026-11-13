@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:diamond_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_pale_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:water",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_powder",
+      "required": false
+    }
+  ]
+}

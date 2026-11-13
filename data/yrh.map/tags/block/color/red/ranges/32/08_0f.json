@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:dragon_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_gateway",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal",
+      "required": false
+    },
+    {
+      "id": "minecraft:ender_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:obsidian",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_catalyst",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_vein",
+      "required": false
+    },
+    {
+      "id": "minecraft:wheat",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_leaves",
+      "required": false
+    }
+  ]
+}

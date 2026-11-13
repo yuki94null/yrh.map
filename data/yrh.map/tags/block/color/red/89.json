@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dead_fire_coral",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:lilac",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_crimson_hyphae",
+      "required": false
+    }
+  ]
+}

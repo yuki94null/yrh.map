@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cyan_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:peony",
+      "required": false
+    }
+  ]
+}

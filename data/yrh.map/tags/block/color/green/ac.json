@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_birch_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:tall_dry_grass",
+      "required": false
+    }
+  ]
+}

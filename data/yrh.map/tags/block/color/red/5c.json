@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_copper_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:podzol",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "required": false
+    }
+  ]
+}

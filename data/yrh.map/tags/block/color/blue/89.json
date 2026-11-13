@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:andesite",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_bed",
+      "required": false
+    }
+  ]
+}

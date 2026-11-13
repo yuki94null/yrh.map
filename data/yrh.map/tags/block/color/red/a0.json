@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bubble_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:bubble_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:conduit",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeater",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_oak_log",
+      "required": false
+    }
+  ]
+}

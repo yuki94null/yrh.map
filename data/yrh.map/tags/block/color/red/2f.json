@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_orchid",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_trapdoor",
+      "required": false
+    }
+  ]
+}

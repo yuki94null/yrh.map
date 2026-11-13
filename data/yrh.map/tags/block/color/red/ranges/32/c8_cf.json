@@ -1,0 +1,105 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:bee_nest",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_resin_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:mushroom_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_mushroom_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_stairs",
+      "required": false
+    }
+  ]
+}

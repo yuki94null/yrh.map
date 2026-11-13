@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:dried_ghast",
+      "required": false
+    },
+    {
+      "id": "minecraft:light",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_cherry_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_cherry_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_stairs",
+      "required": false
+    }
+  ]
+}

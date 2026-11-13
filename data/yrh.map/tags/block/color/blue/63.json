@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:oxidized_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "required": false
+    }
+  ]
+}

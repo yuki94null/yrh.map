@@ -1,0 +1,93 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:glow_item_frame",
+      "required": false
+    },
+    {
+      "id": "minecraft:item_frame",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_concrete_stairs",
+      "required": false
+    }
+  ]
+}

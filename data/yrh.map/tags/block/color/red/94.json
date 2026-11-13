@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cinnabar_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt_path",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_lantern",
+      "required": false
+    }
+  ]
+}

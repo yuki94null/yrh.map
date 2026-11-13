@@ -1,0 +1,149 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:cold_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_cold_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_frozen_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_lukewarm_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_barrens",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_highlands",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_midlands",
+      "required": false
+    },
+    {
+      "id": "minecraft:frozen_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:frozen_peaks",
+      "required": false
+    },
+    {
+      "id": "minecraft:frozen_river",
+      "required": false
+    },
+    {
+      "id": "minecraft:grove",
+      "required": false
+    },
+    {
+      "id": "minecraft:ice_spikes",
+      "required": false
+    },
+    {
+      "id": "minecraft:jagged_peaks",
+      "required": false
+    },
+    {
+      "id": "minecraft:lukewarm_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:lush_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:meadow",
+      "required": false
+    },
+    {
+      "id": "minecraft:ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:old_growth_birch_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:old_growth_pine_taiga",
+      "required": false
+    },
+    {
+      "id": "minecraft:old_growth_spruce_taiga",
+      "required": false
+    },
+    {
+      "id": "minecraft:river",
+      "required": false
+    },
+    {
+      "id": "minecraft:small_end_islands",
+      "required": false
+    },
+    {
+      "id": "minecraft:snowy_beach",
+      "required": false
+    },
+    {
+      "id": "minecraft:snowy_plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:snowy_slopes",
+      "required": false
+    },
+    {
+      "id": "minecraft:snowy_taiga",
+      "required": false
+    },
+    {
+      "id": "minecraft:stony_shore",
+      "required": false
+    },
+    {
+      "id": "minecraft:taiga",
+      "required": false
+    },
+    {
+      "id": "minecraft:the_end",
+      "required": false
+    },
+    {
+      "id": "minecraft:the_void",
+      "required": false
+    },
+    {
+      "id": "minecraft:warm_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:windswept_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:windswept_gravelly_hills",
+      "required": false
+    },
+    {
+      "id": "minecraft:windswept_hills",
+      "required": false
+    }
+  ]
+}

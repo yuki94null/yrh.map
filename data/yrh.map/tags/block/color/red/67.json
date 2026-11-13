@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:cartography_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_shulker_box",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_bed",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:grass_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:large_fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:potted_fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:short_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:tall_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chain",
+      "required": false
+    }
+  ]
+}

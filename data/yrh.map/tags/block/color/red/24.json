@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:light_blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:spawner",
+      "required": false
+    }
+  ]
+}

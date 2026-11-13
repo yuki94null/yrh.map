@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:beetroots",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_roots",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:cactus_flower",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_flower",
+      "required": false
+    },
+    {
+      "id": "minecraft:cornflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal_frame",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_mossy_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:lectern",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_stone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_instance_block",
+      "required": false
+    }
+  ]
+}

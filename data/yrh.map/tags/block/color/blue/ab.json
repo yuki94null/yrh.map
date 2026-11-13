@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:leaf_litter",
+      "required": false
+    },
+    {
+      "id": "minecraft:purpur_pillar",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeating_command_block",
+      "required": false
+    }
+  ]
+}

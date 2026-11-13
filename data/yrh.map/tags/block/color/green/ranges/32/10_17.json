@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:coal_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:cracked_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_wart",
+      "required": false
+    },
+    {
+      "id": "minecraft:respawn_anchor",
+      "required": false
+    },
+    {
+      "id": "minecraft:weeping_vines_plant",
+      "required": false
+    }
+  ]
+}

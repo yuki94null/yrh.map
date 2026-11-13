@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_chiseled_copper",
+      "required": false
+    }
+  ]
+}

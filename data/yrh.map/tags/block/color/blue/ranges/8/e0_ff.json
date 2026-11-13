@@ -1,0 +1,97 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobweb",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:frosted_ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:packed_ice",
+      "required": false
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:powder_snow",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:snow",
+      "required": false
+    },
+    {
+      "id": "minecraft:snow_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_pale_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_pale_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:water",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool_stairs",
+      "required": false
+    }
+  ]
+}

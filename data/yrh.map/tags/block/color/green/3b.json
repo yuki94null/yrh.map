@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dried_kelp_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:muddy_mangrove_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:note_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:smithing_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_hyphae",
+      "required": false
+    }
+  ]
+}

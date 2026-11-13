@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:calcite",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_clump",
+      "required": false
+    }
+  ]
+}

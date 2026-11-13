@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:attached_melon_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:attached_pumpkin_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:pumpkin_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_lightning_rod",
+      "required": false
+    }
+  ]
+}

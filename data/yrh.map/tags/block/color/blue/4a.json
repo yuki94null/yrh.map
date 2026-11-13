@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:activator_rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:lava_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:lectern",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:powder_snow_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:powered_rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:water_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_chiseled_copper",
+      "required": false
+    }
+  ]
+}

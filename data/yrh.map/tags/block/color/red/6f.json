@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon",
+      "required": false
+    },
+    {
+      "id": "minecraft:mycelium",
+      "required": false
+    }
+  ]
+}

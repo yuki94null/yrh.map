@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gold_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_weighted_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_pale_oak_wood",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:budding_amethyst",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_fire_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:gravel",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:small_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_block",
+      "required": false
+    }
+  ]
+}

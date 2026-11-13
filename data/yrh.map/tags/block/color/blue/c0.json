@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:magenta_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:small_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:turtle_egg",
+      "required": false
+    }
+  ]
+}

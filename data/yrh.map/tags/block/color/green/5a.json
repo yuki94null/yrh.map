@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:lava",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_spruce_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:sweet_berry_bush",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:packed_mud",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_stairs",
+      "required": false
+    }
+  ]
+}

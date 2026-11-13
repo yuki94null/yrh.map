@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_wart",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_shrub",
+      "required": false
+    }
+  ]
+}

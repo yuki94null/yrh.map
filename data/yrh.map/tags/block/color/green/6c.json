@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:pale_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_terracotta",
+      "required": false
+    }
+  ]
+}

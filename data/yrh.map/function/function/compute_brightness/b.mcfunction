@@ -1,0 +1,1 @@
+data modify storage yrh.map:_ sample.b set compute default float {type:"minecraft:min",inputs:[255.0,{type:"minecraft:mul",inputs:[{type:"minecraft:storage",storage:"yrh.map:_",path:"sample.b",fallback:0.0},{type:"minecraft:storage",storage:"yrh.map:_",path:"sample.brightness_factor",fallback:1.0}]}]}

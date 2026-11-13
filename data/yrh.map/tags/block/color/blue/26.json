@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gilded_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherrack",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:poppy",
+      "required": false
+    },
+    {
+      "id": "minecraft:rose_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_catalyst",
+      "required": false
+    }
+  ]
+}

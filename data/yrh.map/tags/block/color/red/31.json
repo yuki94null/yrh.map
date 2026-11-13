@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:hopper",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_block",
+      "required": false
+    }
+  ]
+}

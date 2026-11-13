@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cherry_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wall_sign",
+      "required": false
+    }
+  ]
+}

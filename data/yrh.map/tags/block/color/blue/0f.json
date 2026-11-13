@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_stairs",
+      "required": false
+    }
+  ]
+}

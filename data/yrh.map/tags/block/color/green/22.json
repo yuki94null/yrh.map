@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_candle",
+      "required": false
+    }
+  ]
+}

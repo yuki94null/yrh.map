@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:closed_eyeblossom",
+      "required": false
+    },
+    {
+      "id": "minecraft:emerald_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_wire",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_golem_statue",
+      "required": false
+    }
+  ]
+}

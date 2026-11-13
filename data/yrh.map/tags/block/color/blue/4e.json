@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_mosaic",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_mosaic_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_mosaic_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_gold_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_hyphae",
+      "required": false
+    }
+  ]
+}

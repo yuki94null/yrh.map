@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:barrel",
+      "required": false
+    },
+    {
+      "id": "minecraft:brewing_stand",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:peony",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_chiseled_copper",
+      "required": false
+    }
+  ]
+}

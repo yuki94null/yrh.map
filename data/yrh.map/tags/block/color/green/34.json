@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:crimson_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_door",
+      "required": false
+    }
+  ]
+}

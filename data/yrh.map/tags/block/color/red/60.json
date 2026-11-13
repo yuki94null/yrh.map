@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_lantern",
+      "required": false
+    }
+  ]
+}

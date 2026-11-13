@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:snow",
+      "required": false
+    },
+    {
+      "id": "minecraft:snow_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wool_stairs",
+      "required": false
+    }
+  ]
+}

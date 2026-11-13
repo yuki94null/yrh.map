@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:composter",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_wall_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "required": false
+    }
+  ]
+}

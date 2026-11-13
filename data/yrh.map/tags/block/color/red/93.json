@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_cinnabar",
+      "required": false
+    },
+    {
+      "id": "minecraft:lodestone",
+      "required": false
+    }
+  ]
+}

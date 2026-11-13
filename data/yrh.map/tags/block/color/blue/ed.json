@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:stripped_pale_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool_stairs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:light_gray_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:rooted_dirt",
+      "required": false
+    }
+  ]
+}

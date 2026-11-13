@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gold_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_lantern",
+      "required": false
+    }
+  ]
+}

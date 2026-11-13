@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blast_furnace",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_log",
+      "required": false
+    }
+  ]
+}

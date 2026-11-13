@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:lectern",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_glazed_terracotta",
+      "required": false
+    }
+  ]
+}

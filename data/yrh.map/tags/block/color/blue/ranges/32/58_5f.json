@@ -1,0 +1,269 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:beehive",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_sulfur",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:daylight_detector",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_copper_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_emerald_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_iron_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:detector_rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:emerald_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:hanging_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:heavy_core",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "required": false
+    },
+    {
+      "id": "minecraft:loom",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_cobblestone",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_cobblestone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_cobblestone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:mossy_cobblestone_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:peony",
+      "required": false
+    },
+    {
+      "id": "minecraft:pitcher_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:pointed_dripstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_sulfur",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_sulfur_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_sulfur_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_sulfur_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:rail",
+      "required": false
+    },
+    {
+      "id": "minecraft:slime_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_wall_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_crimson_hyphae",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_void",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_spike",
+      "required": false
+    },
+    {
+      "id": "minecraft:trial_spawner",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_glazed_terracotta",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:beetroots",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_log",
+      "required": false
+    }
+  ]
+}

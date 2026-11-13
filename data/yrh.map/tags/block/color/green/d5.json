@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:white_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_stairs",
+      "required": false
+    }
+  ]
+}

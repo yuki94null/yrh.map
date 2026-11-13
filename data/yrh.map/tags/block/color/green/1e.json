@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk",
+      "required": false
+    }
+  ]
+}

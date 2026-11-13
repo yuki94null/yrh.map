@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cactus",
+      "required": false
+    },
+    {
+      "id": "minecraft:dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:firefly_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_mangrove_log",
+      "required": false
+    }
+  ]
+}

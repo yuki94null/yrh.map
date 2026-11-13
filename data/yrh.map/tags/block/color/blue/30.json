@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:azalea",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_mangrove_wood",
+      "required": false
+    }
+  ]
+}

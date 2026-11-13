@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cinnabar_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:cinnabar_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_crimson_stem",
+      "required": false
+    }
+  ]
+}

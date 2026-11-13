@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:straw_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_stairs",
+      "required": false
+    }
+  ]
+}

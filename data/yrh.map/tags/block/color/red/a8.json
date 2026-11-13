@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_powder",
+      "required": false
+    }
+  ]
+}

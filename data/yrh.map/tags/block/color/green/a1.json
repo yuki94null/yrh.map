@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:chain_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_trapdoor",
+      "required": false
+    }
+  ]
+}

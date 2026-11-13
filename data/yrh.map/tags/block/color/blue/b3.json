@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:clay",
+      "required": false
+    }
+  ]
+}

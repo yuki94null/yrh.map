@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:decorated_pot",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:terracotta",
+      "required": false
+    }
+  ]
+}

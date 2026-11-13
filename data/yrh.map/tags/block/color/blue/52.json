@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:stripped_jungle_log",
+      "required": false
+    }
+  ]
+}

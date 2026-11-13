@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cherry_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:cracked_polished_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_wall_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_wall_sign",
+      "required": false
+    }
+  ]
+}

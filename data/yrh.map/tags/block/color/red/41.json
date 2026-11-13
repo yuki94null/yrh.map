@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:cracked_deepslate_bricks",
+      "required": false
+    }
+  ]
+}

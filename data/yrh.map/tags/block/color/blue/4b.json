@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bee_nest",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:sponge",
+      "required": false
+    }
+  ]
+}

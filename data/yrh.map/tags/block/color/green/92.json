@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:beehive",
+      "required": false
+    },
+    {
+      "id": "minecraft:honey_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_bed",
+      "required": false
+    }
+  ]
+}

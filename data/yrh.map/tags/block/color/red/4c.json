@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:green_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    }
+  ]
+}

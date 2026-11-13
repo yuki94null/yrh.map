@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brain_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:mushroom_stem",
+      "required": false
+    }
+  ]
+}

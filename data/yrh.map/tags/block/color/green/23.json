@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:fire_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_shrub",
+      "required": false
+    }
+  ]
+}

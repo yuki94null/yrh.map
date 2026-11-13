@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dark_oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bars",
+      "required": false
+    }
+  ]
+}

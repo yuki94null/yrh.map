@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bubble_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:bubble_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_stairs",
+      "required": false
+    }
+  ]
+}

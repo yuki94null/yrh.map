@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:crimson_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "required": false
+    }
+  ]
+}

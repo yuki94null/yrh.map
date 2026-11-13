@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_warped_hyphae",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_hyphae",
+      "required": false
+    }
+  ]
+}

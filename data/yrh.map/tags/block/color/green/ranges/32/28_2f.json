@@ -1,0 +1,161 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bell",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:gilded_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:grindstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_mushroom_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:spawner",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_mangrove_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_rose",
+      "required": false
+    }
+  ]
+}

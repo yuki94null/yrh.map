@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:coarse_dirt",
+      "required": false
+    },
+    {
+      "id": "minecraft:heavy_core",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_wall_hanging_sign",
+      "required": false
+    }
+  ]
+}

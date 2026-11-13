@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:amethyst_cluster",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_door",
+      "required": false
+    }
+  ]
+}

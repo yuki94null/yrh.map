@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:pink_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wool_stairs",
+      "required": false
+    }
+  ]
+}

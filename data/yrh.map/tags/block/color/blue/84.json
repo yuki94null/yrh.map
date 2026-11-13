@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:birch_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_trapdoor",
+      "required": false
+    }
+  ]
+}

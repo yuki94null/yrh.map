@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_clump",
+      "required": false
+    }
+  ]
+}

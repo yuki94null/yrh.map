@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:lodestone",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "required": false
+    }
+  ]
+}

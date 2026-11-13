@@ -1,0 +1,193 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:bookshelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "required": false
+    },
+    {
+      "id": "minecraft:glowstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:petrified_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:trapped_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wall_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_banner",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wall_banner",
+      "required": false
+    }
+  ]
+}

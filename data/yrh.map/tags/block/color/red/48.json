@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:polished_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "required": false
+    }
+  ]
+}

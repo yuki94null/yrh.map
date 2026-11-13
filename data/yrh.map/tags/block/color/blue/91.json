@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:dried_ghast",
+      "required": false
+    }
+  ]
+}

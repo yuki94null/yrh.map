@@ -1,0 +1,121 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:bee_nest",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_orchid",
+      "required": false
+    },
+    {
+      "id": "minecraft:chain_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:clay",
+      "required": false
+    },
+    {
+      "id": "minecraft:comparator",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:pitcher_crop",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_candle",
+      "required": false
+    }
+  ]
+}

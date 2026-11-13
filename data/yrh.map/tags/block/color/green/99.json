@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:pink_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_poplar_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_trapdoor",
+      "required": false
+    }
+  ]
+}

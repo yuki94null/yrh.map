@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wall_hanging_sign",
+      "required": false
+    }
+  ]
+}

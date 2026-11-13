@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bell",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:gilded_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_bed",
+      "required": false
+    }
+  ]
+}

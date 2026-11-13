@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gray_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wood",
+      "required": false
+    }
+  ]
+}

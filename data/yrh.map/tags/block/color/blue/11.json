@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:flowering_azalea_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_wood",
+      "required": false
+    }
+  ]
+}

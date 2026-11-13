@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_coal_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:lava_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:powder_snow_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:water_cauldron",
+      "required": false
+    }
+  ]
+}

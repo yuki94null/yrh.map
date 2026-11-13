@@ -1,0 +1,237 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:calibrated_sculk_sensor",
+      "required": false
+    },
+    {
+      "id": "minecraft:closed_eyeblossom",
+      "required": false
+    },
+    {
+      "id": "minecraft:crafter",
+      "required": false
+    },
+    {
+      "id": "minecraft:dispenser",
+      "required": false
+    },
+    {
+      "id": "minecraft:dropper",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal_frame",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:moving_piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:mycelium",
+      "required": false
+    },
+    {
+      "id": "minecraft:observer",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_hanging_moss",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:piston_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:pitcher_crop",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_tuff_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:potent_sulfur",
+      "required": false
+    },
+    {
+      "id": "minecraft:sticky_piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:sugar_cane",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:tuff_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_lantern",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "required": false
+    }
+  ]
+}

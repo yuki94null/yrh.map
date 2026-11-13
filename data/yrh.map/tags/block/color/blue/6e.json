@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:furnace",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_trapdoor",
+      "required": false
+    }
+  ]
+}

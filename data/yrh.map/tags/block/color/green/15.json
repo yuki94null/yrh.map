@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_stairs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_bricks",
+      "required": false
+    }
+  ]
+}

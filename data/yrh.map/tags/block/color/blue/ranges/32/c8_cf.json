@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:amethyst_cluster",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:large_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:medium_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:ochre_froglight",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_glazed_terracotta",
+      "required": false
+    }
+  ]
+}

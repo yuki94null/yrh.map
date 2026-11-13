@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bee_nest",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_door",
+      "required": false
+    }
+  ]
+}

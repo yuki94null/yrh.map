@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cave_vines",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_vines_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_poplar_leaves",
+      "required": false
+    }
+  ]
+}

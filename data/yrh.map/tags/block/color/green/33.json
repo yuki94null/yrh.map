@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_shelf",
+      "required": false
+    }
+  ]
+}

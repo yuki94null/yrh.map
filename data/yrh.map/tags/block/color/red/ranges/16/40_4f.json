@@ -1,0 +1,333 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:anvil",
+      "required": false
+    },
+    {
+      "id": "minecraft:beetroots",
+      "required": false
+    },
+    {
+      "id": "minecraft:bell",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:chipped_anvil",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:cracked_deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:damaged_anvil",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_coal_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_emerald_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:grindstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:lava_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:muddy_mangrove_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:powder_snow_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:water_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_chain",
+      "required": false
+    }
+  ]
+}

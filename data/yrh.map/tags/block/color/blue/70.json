@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:light_gray_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_trapdoor",
+      "required": false
+    }
+  ]
+}

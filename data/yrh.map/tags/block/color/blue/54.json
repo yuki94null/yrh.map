@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:exposed_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:glowstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_sensor",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_chain",
+      "required": false
+    }
+  ]
+}

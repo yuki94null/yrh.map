@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:beach",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_dark",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:flower_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:meadow",
+      "required": false
+    },
+    {
+      "id": "minecraft:old_growth_birch_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:stony_peaks",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower_plains",
+      "required": false
+    }
+  ]
+}

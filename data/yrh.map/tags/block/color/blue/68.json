@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:exposed_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_lightning_rod",
+      "required": false
+    }
+  ]
+}

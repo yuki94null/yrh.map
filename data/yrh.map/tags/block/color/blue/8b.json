@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:shulker_box",
+      "required": false
+    }
+  ]
+}

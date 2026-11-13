@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cherry_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tile_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:vault",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_wall_hanging_sign",
+      "required": false
+    }
+  ]
+}

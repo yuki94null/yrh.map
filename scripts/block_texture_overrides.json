@@ -1,0 +1,136 @@
+{
+  "texture_to_blocks": {
+    "block/dirt_path_side.png": [
+      "minecraft:dirt_path"
+    ],
+    "block/dirt_path_top.png": [
+      "minecraft:dirt_path"
+    ],
+    "block/farmland_moist.png": [
+      "minecraft:farmland"
+    ],
+    "block/grass_block_snow.png": [
+      "minecraft:grass_block"
+    ],
+    "block/pale_hanging_moss_tip.png": [
+      "minecraft:pale_hanging_moss"
+    ],
+    "block/pale_moss_carpet_side_tall.png": [
+      "minecraft:pale_moss_carpet"
+    ],
+    "block/potted_flowering_azalea_bush_plant.png": [
+      "minecraft:potted_flowering_azalea_bush"
+    ],
+    "block/magma.png": [
+      "minecraft:magma_block"
+    ]
+  },
+  "block_to_texture": {
+    "minecraft:dirt_path": "block/dirt_path_top.png",
+    "minecraft:farmland": "block/farmland.png",
+    "minecraft:grass_block": "block/grass_block_top.png",
+    "minecraft:magma_block": "block/magma.png"
+  },
+  "block_color_categories": {
+    "grass": {
+      "blocks": [
+        "minecraft:acacia_leaves",
+        "minecraft:dark_oak_leaves",
+        "minecraft:fern",
+        "minecraft:grass_block",
+        "minecraft:jungle_leaves",
+        "minecraft:large_fern",
+        "minecraft:oak_leaves",
+        "minecraft:pale_oak_leaves",
+        "minecraft:potted_fern",
+        "minecraft:short_grass",
+        "minecraft:tall_grass",
+        "minecraft:vine"
+      ]
+    },
+    "foliage": {
+      "blocks": [
+        "minecraft:acacia_leaves",
+        "minecraft:dark_oak_leaves",
+        "minecraft:jungle_leaves",
+        "minecraft:oak_leaves",
+        "minecraft:pale_oak_leaves",
+        "minecraft:vine"
+      ]
+    },
+    "dry_foliage": {
+      "blocks": [
+        "minecraft:leaf_litter"
+      ]
+    },
+    "water": {
+      "blocks": [
+        "minecraft:water"
+      ]
+    }
+  },
+  "block_color_overrides": {
+    "minecraft:grass_block": [
+      84,
+      109,
+      51
+    ],
+    "minecraft:short_grass": [
+      84,
+      109,
+      51
+    ],
+    "minecraft:tall_grass": [
+      84,
+      109,
+      51
+    ],
+    "minecraft:fern": [
+      84,
+      109,
+      51
+    ],
+    "minecraft:large_fern": [
+      84,
+      109,
+      51
+    ],
+    "minecraft:potted_fern": [
+      84,
+      109,
+      51
+    ],
+    "minecraft:water": [
+      63,
+      118,
+      228
+    ],
+    "minecraft:redstone_wire": [
+      108,
+      5,
+      0
+    ]
+  },
+  "ignore_textures": [
+    "block/destroy_stage_0.png",
+    "block/destroy_stage_1.png",
+    "block/destroy_stage_2.png",
+    "block/destroy_stage_3.png",
+    "block/destroy_stage_4.png",
+    "block/destroy_stage_5.png",
+    "block/destroy_stage_6.png",
+    "block/destroy_stage_7.png",
+    "block/destroy_stage_8.png",
+    "block/destroy_stage_9.png",
+    "block/destroy_oit_stage_0.png",
+    "block/destroy_oit_stage_1.png",
+    "block/destroy_oit_stage_2.png",
+    "block/destroy_oit_stage_3.png",
+    "block/destroy_oit_stage_4.png",
+    "block/destroy_oit_stage_5.png",
+    "block/destroy_oit_stage_6.png",
+    "block/destroy_oit_stage_7.png",
+    "block/destroy_oit_stage_8.png",
+    "block/destroy_oit_stage_9.png"
+  ]
+}

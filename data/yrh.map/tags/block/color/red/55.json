@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:smoker",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_bars",
+      "required": false
+    }
+  ]
+}

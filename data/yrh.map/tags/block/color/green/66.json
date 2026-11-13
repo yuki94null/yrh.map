@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:exposed_copper_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_chain",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:carrots",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:sea_pickle",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_wool_stairs",
+      "required": false
+    }
+  ]
+}

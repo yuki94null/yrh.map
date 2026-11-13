@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_cinnabar",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tile_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_gold_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "required": false
+    }
+  ]
+}

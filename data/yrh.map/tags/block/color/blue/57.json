@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:frogspawn",
+      "required": false
+    }
+  ]
+}

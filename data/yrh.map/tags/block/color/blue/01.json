@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:orange_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_stairs",
+      "required": false
+    }
+  ]
+}

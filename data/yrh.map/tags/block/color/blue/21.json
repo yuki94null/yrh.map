@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dark_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "required": false
+    }
+  ]
+}

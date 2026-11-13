@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:crimson_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_wall_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:torchflower",
+      "required": false
+    }
+  ]
+}

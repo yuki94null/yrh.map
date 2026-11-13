@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_block",
+      "required": false
+    }
+  ]
+}

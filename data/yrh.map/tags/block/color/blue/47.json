@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:crimson_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:farmland",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:shroomlight",
+      "required": false
+    },
+    {
+      "id": "minecraft:smithing_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "required": false
+    }
+  ]
+}

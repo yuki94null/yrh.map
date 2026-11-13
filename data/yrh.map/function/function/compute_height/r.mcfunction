@@ -1,0 +1,1 @@
+data modify storage yrh.map:_ sample.r set compute default float {type:"minecraft:min",inputs:[255.0,{type:"minecraft:mul",inputs:[{type:"minecraft:from_int",input:{type:"minecraft:storage",storage:"yrh.map:_",path:"sample.r"}},{type:"minecraft:storage",storage:"yrh.map:_",path:"sample.height_factor"}]}]}

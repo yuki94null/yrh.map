@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_shrieker",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_mangrove_wood",
+      "required": false
+    }
+  ]
+}

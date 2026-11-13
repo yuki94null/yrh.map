@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:iron_chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:seagrass",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_fire",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_shelf",
+      "required": false
+    }
+  ]
+}

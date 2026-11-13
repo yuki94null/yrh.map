@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:exposed_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:medium_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_wart_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_lightning_rod",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:purpur_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:purpur_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:purpur_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:scaffolding",
+      "required": false
+    }
+  ]
+}

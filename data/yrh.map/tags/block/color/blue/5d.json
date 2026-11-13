@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dripstone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:pitcher_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_void",
+      "required": false
+    }
+  ]
+}

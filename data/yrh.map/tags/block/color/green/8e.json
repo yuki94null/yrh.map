@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:big_dripleaf",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:spore_blossom",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_lightning_rod",
+      "required": false
+    }
+  ]
+}

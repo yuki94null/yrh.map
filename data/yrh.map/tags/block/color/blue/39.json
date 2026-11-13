@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chiseled_polished_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_bulb",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:blast_furnace",
+      "required": false
+    },
+    {
+      "id": "minecraft:cactus",
+      "required": false
+    },
+    {
+      "id": "minecraft:cornflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:creeper_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:creeper_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_diamond_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:dragon_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:dragon_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:grass_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:heavy_core",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:large_fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:peony",
+      "required": false
+    },
+    {
+      "id": "minecraft:piglin_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:piglin_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:potted_fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:reinforced_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:short_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:skeleton_skull",
+      "required": false
+    },
+    {
+      "id": "minecraft:skeleton_wall_skull",
+      "required": false
+    },
+    {
+      "id": "minecraft:smoker",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:tall_grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_chiseled_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_golem_statue",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_grate",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_skeleton_skull",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_skeleton_wall_skull",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:zombie_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:zombie_wall_head",
+      "required": false
+    }
+  ]
+}

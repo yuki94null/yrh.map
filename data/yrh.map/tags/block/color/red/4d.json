@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_powder",
+      "required": false
+    }
+  ]
+}

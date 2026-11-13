@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_door",
+      "required": false
+    }
+  ]
+}

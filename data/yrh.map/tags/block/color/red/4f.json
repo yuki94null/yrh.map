@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_lightning_rod",
+      "required": false
+    }
+  ]
+}

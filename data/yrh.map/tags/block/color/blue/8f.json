@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cherry_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_stairs",
+      "required": false
+    }
+  ]
+}

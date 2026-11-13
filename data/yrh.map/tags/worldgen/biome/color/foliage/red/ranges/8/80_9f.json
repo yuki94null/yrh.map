@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:badlands",
+      "required": false
+    },
+    {
+      "id": "minecraft:eroded_badlands",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_swamp",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_garden",
+      "required": false
+    },
+    {
+      "id": "minecraft:stony_peaks",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooded_badlands",
+      "required": false
+    }
+  ]
+}

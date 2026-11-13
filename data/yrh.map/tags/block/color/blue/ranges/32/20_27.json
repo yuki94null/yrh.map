@@ -1,0 +1,197 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:bamboo_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:composter",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:dried_kelp_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:gilded_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:magma_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherrack",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:poppy",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:rose_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk",
+      "required": false
+    },
+    {
+      "id": "minecraft:sculk_catalyst",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:vine",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_terracotta",
+      "required": false
+    }
+  ]
+}

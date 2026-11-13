@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_shulker_box",
+      "required": false
+    },
+    {
+      "id": "minecraft:grindstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:spawner",
+      "required": false
+    }
+  ]
+}

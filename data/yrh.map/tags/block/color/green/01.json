@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:weeping_vines",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:jungle_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_wall_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_stairs",
+      "required": false
+    }
+  ]
+}

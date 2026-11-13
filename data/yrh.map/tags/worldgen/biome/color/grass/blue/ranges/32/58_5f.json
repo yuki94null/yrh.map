@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:beach",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_dark",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:flower_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower_plains",
+      "required": false
+    }
+  ]
+}

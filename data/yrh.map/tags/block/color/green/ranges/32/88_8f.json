@@ -1,0 +1,213 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:allium",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:andesite_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:beetroots",
+      "required": false
+    },
+    {
+      "id": "minecraft:big_dripleaf",
+      "required": false
+    },
+    {
+      "id": "minecraft:conduit",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:emerald_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:hay_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_bars",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_door",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_trapdoor",
+      "required": false
+    },
+    {
+      "id": "minecraft:raw_iron_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:spore_blossom",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_poplar_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:twisting_vines",
+      "required": false
+    },
+    {
+      "id": "minecraft:twisting_vines_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_roots",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_lightning_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_lightning_rod",
+      "required": false
+    }
+  ]
+}

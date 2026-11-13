@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_crimson_hyphae",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_wood",
+      "required": false
+    }
+  ]
+}

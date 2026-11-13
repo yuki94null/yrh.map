@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:blue_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:smithing_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower",
+      "required": false
+    }
+  ]
+}

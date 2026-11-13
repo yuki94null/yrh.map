@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:big_dripleaf_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:small_dripleaf",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_wool_stairs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:iron_ore",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:straw_bed",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_warped_stem",
+      "required": false
+    },
+    {
+      "id": "minecraft:tripwire",
+      "required": false
+    }
+  ]
+}

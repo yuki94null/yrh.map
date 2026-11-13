@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:allium",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_button",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_fence",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_fence_gate",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:poplar_stairs",
+      "required": false
+    }
+  ]
+}

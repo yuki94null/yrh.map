@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:light_blue_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_wall_fan",
+      "required": false
+    }
+  ]
+}

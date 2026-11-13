@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brewing_stand",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_shrub",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_crimson_stem",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:black_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:coal_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:dragon_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:wheat",
+      "required": false
+    }
+  ]
+}

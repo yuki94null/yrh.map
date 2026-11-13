@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cold_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:dappled_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_cold_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:meadow",
+      "required": false
+    },
+    {
+      "id": "minecraft:snowy_beach",
+      "required": false
+    },
+    {
+      "id": "minecraft:snowy_taiga",
+      "required": false
+    }
+  ]
+}

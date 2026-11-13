@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dead_bubble_coral_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_wall_fan",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_horn_coral",
+      "required": false
+    }
+  ]
+}

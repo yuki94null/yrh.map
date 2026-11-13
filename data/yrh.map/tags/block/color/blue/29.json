@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:acacia_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:beetroots",
+      "required": false
+    },
+    {
+      "id": "minecraft:blackstone_wall",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_candle",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_carpet",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wool",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wool_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_wool_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:note_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:potatoes",
+      "required": false
+    }
+  ]
+}

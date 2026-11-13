@@ -1,0 +1,2280 @@
+{
+  "minecraft:badlands": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        144,
+        129,
+        77
+      ],
+      "foliage": [
+        158,
+        129,
+        77
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:bamboo_jungle": {
+    "temperature": 0.95,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        89,
+        201,
+        60
+      ],
+      "foliage": [
+        48,
+        187,
+        11
+      ],
+      "dry_foliage": [
+        163,
+        99,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:basalt_deltas": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:beach": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        145,
+        189,
+        89
+      ],
+      "foliage": [
+        119,
+        171,
+        47
+      ],
+      "dry_foliage": [
+        163,
+        117,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:birch_forest": {
+    "temperature": 0.6,
+    "temperature_modifier": "none",
+    "downfall": 0.6,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        136,
+        187,
+        103
+      ],
+      "foliage": [
+        107,
+        169,
+        65
+      ],
+      "dry_foliage": [
+        163,
+        114,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:cherry_grove": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        182,
+        219,
+        97
+      ],
+      "foliage": [
+        182,
+        219,
+        97
+      ],
+      "dry_foliage": [
+        161,
+        113,
+        72
+      ],
+      "water": [
+        93,
+        183,
+        239
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:cold_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        61,
+        87,
+        214
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:crimson_forest": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:dappled_forest": {
+    "temperature": 0.6,
+    "temperature_modifier": "none",
+    "downfall": 0.6,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        223,
+        104,
+        39
+      ],
+      "foliage": [
+        230,
+        142,
+        48
+      ],
+      "dry_foliage": [
+        140,
+        58,
+        4
+      ],
+      "water": [
+        55,
+        81,
+        84
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "biome_effect_override",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:dark_forest": {
+    "temperature": 0.7,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "dark_forest",
+    "colors": {
+      "grass": [
+        80,
+        122,
+        50
+      ],
+      "foliage": [
+        89,
+        174,
+        48
+      ],
+      "dry_foliage": [
+        123,
+        83,
+        52
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap+dark_forest_modifier",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "biome_effect_override",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:deep_cold_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        61,
+        87,
+        214
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:deep_dark": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        145,
+        189,
+        89
+      ],
+      "foliage": [
+        119,
+        171,
+        47
+      ],
+      "dry_foliage": [
+        163,
+        117,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:deep_frozen_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "frozen",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        57,
+        56,
+        201
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:deep_lukewarm_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        69,
+        173,
+        242
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:deep_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:desert": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:dripstone_caves": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        145,
+        189,
+        89
+      ],
+      "foliage": [
+        119,
+        171,
+        47
+      ],
+      "dry_foliage": [
+        163,
+        117,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:end_barrens": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:end_highlands": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:end_midlands": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:eroded_badlands": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        144,
+        129,
+        77
+      ],
+      "foliage": [
+        158,
+        129,
+        77
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:flower_forest": {
+    "temperature": 0.7,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        121,
+        192,
+        90
+      ],
+      "foliage": [
+        89,
+        174,
+        48
+      ],
+      "dry_foliage": [
+        163,
+        109,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:forest": {
+    "temperature": 0.7,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        121,
+        192,
+        90
+      ],
+      "foliage": [
+        89,
+        174,
+        48
+      ],
+      "dry_foliage": [
+        163,
+        109,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:frozen_ocean": {
+    "temperature": 0.0,
+    "temperature_modifier": "frozen",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        57,
+        56,
+        201
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:frozen_peaks": {
+    "temperature": -0.7,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:frozen_river": {
+    "temperature": 0.0,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        57,
+        56,
+        201
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:grove": {
+    "temperature": -0.2,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:ice_spikes": {
+    "temperature": 0.0,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:jagged_peaks": {
+    "temperature": -0.7,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:jungle": {
+    "temperature": 0.95,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        89,
+        201,
+        60
+      ],
+      "foliage": [
+        48,
+        187,
+        11
+      ],
+      "dry_foliage": [
+        163,
+        99,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:lukewarm_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        69,
+        173,
+        242
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:lush_caves": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:mangrove_swamp": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "swamp",
+    "colors": {
+      "grass": [
+        76,
+        118,
+        60
+      ],
+      "foliage": [
+        141,
+        177,
+        39
+      ],
+      "dry_foliage": [
+        123,
+        83,
+        52
+      ],
+      "water": [
+        58,
+        122,
+        106
+      ]
+    },
+    "color_source": {
+      "grass": "swamp_modifier_representative; varies_by_xz",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "biome_effect_override",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:meadow": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        131,
+        187,
+        109
+      ],
+      "foliage": [
+        100,
+        169,
+        72
+      ],
+      "dry_foliage": [
+        161,
+        113,
+        72
+      ],
+      "water": [
+        14,
+        78,
+        207
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:mushroom_fields": {
+    "temperature": 0.9,
+    "temperature_modifier": "none",
+    "downfall": 1.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        85,
+        201,
+        63
+      ],
+      "foliage": [
+        43,
+        187,
+        15
+      ],
+      "dry_foliage": [
+        163,
+        98,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:nether_wastes": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:old_growth_birch_forest": {
+    "temperature": 0.6,
+    "temperature_modifier": "none",
+    "downfall": 0.6,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        136,
+        187,
+        103
+      ],
+      "foliage": [
+        107,
+        169,
+        65
+      ],
+      "dry_foliage": [
+        163,
+        114,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:old_growth_pine_taiga": {
+    "temperature": 0.3,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        134,
+        184,
+        127
+      ],
+      "foliage": [
+        104,
+        165,
+        95
+      ],
+      "dry_foliage": [
+        156,
+        117,
+        77
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:old_growth_spruce_taiga": {
+    "temperature": 0.25,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        134,
+        183,
+        131
+      ],
+      "foliage": [
+        104,
+        164,
+        100
+      ],
+      "dry_foliage": [
+        154,
+        118,
+        79
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:pale_garden": {
+    "temperature": 0.7,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        119,
+        130,
+        114
+      ],
+      "foliage": [
+        135,
+        141,
+        118
+      ],
+      "dry_foliage": [
+        160,
+        166,
+        156
+      ],
+      "water": [
+        118,
+        136,
+        157
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "biome_effect_override",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:plains": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        145,
+        189,
+        89
+      ],
+      "foliage": [
+        119,
+        171,
+        47
+      ],
+      "dry_foliage": [
+        163,
+        117,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:river": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:savanna": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:savanna_plateau": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:small_end_islands": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:snowy_beach": {
+    "temperature": 0.05,
+    "temperature_modifier": "none",
+    "downfall": 0.3,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        131,
+        181,
+        147
+      ],
+      "foliage": [
+        100,
+        162,
+        120
+      ],
+      "dry_foliage": [
+        145,
+        121,
+        88
+      ],
+      "water": [
+        61,
+        87,
+        214
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:snowy_plains": {
+    "temperature": 0.0,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:snowy_slopes": {
+    "temperature": -0.3,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:snowy_taiga": {
+    "temperature": -0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        128,
+        180,
+        151
+      ],
+      "foliage": [
+        96,
+        161,
+        123
+      ],
+      "dry_foliage": [
+        143,
+        122,
+        90
+      ],
+      "water": [
+        61,
+        87,
+        214
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:soul_sand_valley": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:sparse_jungle": {
+    "temperature": 0.95,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        100,
+        199,
+        63
+      ],
+      "foliage": [
+        62,
+        184,
+        15
+      ],
+      "dry_foliage": [
+        163,
+        102,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:stony_peaks": {
+    "temperature": 1.0,
+    "temperature_modifier": "none",
+    "downfall": 0.3,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        154,
+        190,
+        75
+      ],
+      "foliage": [
+        130,
+        172,
+        30
+      ],
+      "dry_foliage": [
+        163,
+        121,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:stony_shore": {
+    "temperature": 0.2,
+    "temperature_modifier": "none",
+    "downfall": 0.3,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        138,
+        182,
+        137
+      ],
+      "foliage": [
+        109,
+        163,
+        107
+      ],
+      "dry_foliage": [
+        150,
+        119,
+        83
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:sulfur_caves": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        171,
+        166,
+        79
+      ],
+      "foliage": [
+        119,
+        171,
+        47
+      ],
+      "dry_foliage": [
+        163,
+        117,
+        70
+      ],
+      "water": [
+        52,
+        191,
+        137
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:sunflower_plains": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.4,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        145,
+        189,
+        89
+      ],
+      "foliage": [
+        119,
+        171,
+        47
+      ],
+      "dry_foliage": [
+        163,
+        117,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:swamp": {
+    "temperature": 0.8,
+    "temperature_modifier": "none",
+    "downfall": 0.9,
+    "grass_color_modifier": "swamp",
+    "colors": {
+      "grass": [
+        76,
+        118,
+        60
+      ],
+      "foliage": [
+        106,
+        112,
+        57
+      ],
+      "dry_foliage": [
+        123,
+        83,
+        52
+      ],
+      "water": [
+        97,
+        123,
+        100
+      ]
+    },
+    "color_source": {
+      "grass": "swamp_modifier_representative; varies_by_xz",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "biome_effect_override",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:taiga": {
+    "temperature": 0.25,
+    "temperature_modifier": "none",
+    "downfall": 0.8,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        134,
+        183,
+        131
+      ],
+      "foliage": [
+        104,
+        164,
+        100
+      ],
+      "dry_foliage": [
+        154,
+        118,
+        79
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:the_end": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:the_void": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:warm_ocean": {
+    "temperature": 0.5,
+    "temperature_modifier": "none",
+    "downfall": 0.5,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        142,
+        185,
+        113
+      ],
+      "foliage": [
+        113,
+        167,
+        77
+      ],
+      "dry_foliage": [
+        161,
+        116,
+        72
+      ],
+      "water": [
+        67,
+        213,
+        238
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:warped_forest": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:windswept_forest": {
+    "temperature": 0.2,
+    "temperature_modifier": "none",
+    "downfall": 0.3,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        138,
+        182,
+        137
+      ],
+      "foliage": [
+        109,
+        163,
+        107
+      ],
+      "dry_foliage": [
+        150,
+        119,
+        83
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:windswept_gravelly_hills": {
+    "temperature": 0.2,
+    "temperature_modifier": "none",
+    "downfall": 0.3,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        138,
+        182,
+        137
+      ],
+      "foliage": [
+        109,
+        163,
+        107
+      ],
+      "dry_foliage": [
+        150,
+        119,
+        83
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:windswept_hills": {
+    "temperature": 0.2,
+    "temperature_modifier": "none",
+    "downfall": 0.3,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        138,
+        182,
+        137
+      ],
+      "foliage": [
+        109,
+        163,
+        107
+      ],
+      "dry_foliage": [
+        150,
+        119,
+        83
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:windswept_savanna": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        191,
+        183,
+        85
+      ],
+      "foliage": [
+        174,
+        164,
+        42
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "grass_colormap",
+      "foliage": "foliage_colormap",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  },
+  "minecraft:wooded_badlands": {
+    "temperature": 2.0,
+    "temperature_modifier": "none",
+    "downfall": 0.0,
+    "grass_color_modifier": "none",
+    "colors": {
+      "grass": [
+        144,
+        129,
+        77
+      ],
+      "foliage": [
+        158,
+        129,
+        77
+      ],
+      "dry_foliage": [
+        163,
+        128,
+        70
+      ],
+      "water": [
+        63,
+        118,
+        228
+      ]
+    },
+    "color_source": {
+      "grass": "biome_effect_override",
+      "foliage": "biome_effect_override",
+      "dry_foliage": "dry_foliage_colormap",
+      "water": "biome_effect_override"
+    }
+  }
+}

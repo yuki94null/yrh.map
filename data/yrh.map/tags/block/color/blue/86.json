@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:light",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_shelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_wall_hanging_sign",
+      "required": false
+    }
+  ]
+}
