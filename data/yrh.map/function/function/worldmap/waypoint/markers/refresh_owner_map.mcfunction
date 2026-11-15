@@ -1,0 +1,2 @@
+$execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=1..}] if data entity @s data.yrhmap{Owner:$(player)} run tag @s add yrh.map.waypoint_shared_pending
+execute in minecraft:overworld run tag @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=yrh.map.waypoint_shared_pending] add yrh.map.waypoint_visuals_pending

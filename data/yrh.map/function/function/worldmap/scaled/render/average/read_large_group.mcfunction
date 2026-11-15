@@ -1,0 +1,9 @@
+function yrh.map:function/worldmap/scaled/render/pixel_position
+scoreboard players set #scale_group_loaded yrh_map_tmp 0
+data modify storage yrh.map:_ worldmap.scale_sample.x set compute default integer {"type":"minecraft:add","inputs":[{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.scale_sample.x","fallback":0},{"type":"minecraft:mul","inputs":[4,{"type":"minecraft:mod","left":{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.active_job.group","fallback":0},"right":{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.scale_group_width","fallback":0}}]}]}
+data modify storage yrh.map:_ worldmap.scale_sample.z set compute default integer {"type":"minecraft:add","inputs":[{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.scale_sample.z","fallback":0},{"type":"minecraft:mul","inputs":[4,{"type":"minecraft:div","left":{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.active_job.group","fallback":0},"right":{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.scale_group_width","fallback":0}}]}]}
+function yrh.map:function/worldmap/scaled/render/average/group_coordinates
+function yrh.map:function/worldmap/scaled/render/average/read_group with storage yrh.map:_ worldmap.scale_sample
+data modify storage yrh.map:_ worldmap.active_job.group set compute default integer {"type":"minecraft:add","inputs":[{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.active_job.group","fallback":0},1]}
+execute if data storage yrh.map:_ worldmap.active_job{group:4,scale:8} run return run function yrh.map:function/worldmap/scaled/render/average/finish_large_pixel
+execute if data storage yrh.map:_ worldmap.active_job{group:16,scale:16} run function yrh.map:function/worldmap/scaled/render/average/finish_large_pixel

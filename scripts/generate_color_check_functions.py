@@ -22,13 +22,6 @@ def function_id(path: str) -> str:
 
 
 def main() -> None:
-    root_commands = [
-        f"data modify storage {NAMESPACE}:_ tmp set value {{r:0,g:0,b:0}}"
-    ]
-    for short, _ in CHANNELS:
-        root_commands.append(f"function {function_id(f'{short}/root')}")
-    write(ROOT / "root.mcfunction", root_commands)
-
     for short, channel in CHANNELS:
         # The first partition level keeps the existing short path layout:
         # r/00_7f and r/80_ff.
@@ -48,7 +41,7 @@ def main() -> None:
                     # Store the bucket's lower byte directly as a two-digit
                     # hexadecimal string for later Raw JSON color assembly.
                     commands = [
-                        f'data modify storage {NAMESPACE}:_ tmp.{short} '
+                        f'data modify storage {NAMESPACE}:_ color_lookup.{short} '
                         f"set value {low}"
                     ]
                 else:
@@ -103,7 +96,7 @@ def main() -> None:
                     )
                     if level == 5:
                         commands = [
-                            f'data modify storage {NAMESPACE}:_ tmp.{short} '
+                            f'data modify storage {NAMESPACE}:_ color_lookup.{short} '
                             f"set value {low}"
                         ]
                     else:
@@ -137,7 +130,9 @@ def main() -> None:
     # Route biome-tinted blocks to the relevant colormap family. Returning
     # from a matched branch makes exclusions on the fallback unnecessary.
     root_commands = [
-        f"data modify storage {NAMESPACE}:_ tmp set value {{r:0,g:0,b:0}}",
+        f"data modify storage {NAMESPACE}:_ color_lookup set value {{r:0,g:0,b:0}}",
+        "execute if block ~ ~ ~ minecraft:pale_oak_leaves "
+        f"run return run data modify storage {NAMESPACE}:_ color_lookup set value {{r:110,g:110,b:110}}",
         f"execute if block ~ ~ ~ #{NAMESPACE}:color_category/water "
         f"run return run function {function_id('biome/water/root')}",
         f"execute if block ~ ~ ~ #{NAMESPACE}:color_category/dry_foliage "

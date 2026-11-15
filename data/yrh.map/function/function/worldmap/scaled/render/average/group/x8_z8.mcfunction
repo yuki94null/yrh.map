@@ -1,0 +1,16 @@
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:8,lz:8}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:8,lz:9}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:8,lz:10}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:8,lz:11}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:9,lz:8}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:9,lz:9}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:9,lz:10}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:9,lz:11}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:10,lz:8}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:10,lz:9}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:10,lz:10}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:10,lz:11}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:11,lz:8}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:11,lz:9}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:11,lz:10}
+$function yrh.map:function/worldmap/scaled/render/average/add_sample {cx:$(cx),cz:$(cz),lx:11,lz:11}

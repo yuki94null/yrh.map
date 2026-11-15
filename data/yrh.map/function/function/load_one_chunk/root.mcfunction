@@ -1,0 +1,1 @@
+execute if dimension minecraft:overworld positioned ~-8 ~ ~-8 positioned ~72057594067927936 ~ ~72057594067927936 positioned ~-72057594067927936 ~ ~-72057594067927936 summon minecraft:marker run function yrh.map:function/load_one_chunk/enqueue_manual_scan

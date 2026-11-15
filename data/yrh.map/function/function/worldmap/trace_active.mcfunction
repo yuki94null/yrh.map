@@ -1,0 +1,1 @@
+tellraw @a[tag=yrh.map.queue_trace] [{text:"[Map Queue] tick="},{score:{name:"#queue_trace_tick",objective:"yrh_map_tmp"}},{text:" job="},{nbt:"worldmap.active_job",storage:"yrh.map:_",interpret:false}]

@@ -1,0 +1,2 @@
+summon minecraft:interaction ~-5.15 ~0.65 ~-6.75 {Tags:["yrh.map.pan_control","yrh.map.new_part","yrh.map.pan_control.access"],width:0.75f,height:0.7f,response:1b}
+summon minecraft:text_display ~-5.15 ~1.035 ~-6.695 {Tags:["yrh.map.pan_label","yrh.map.new_part","yrh.map.access_label"],text:{text:"MAP PRIVATE",color:"white",shadow_color:0},billboard:"fixed",brightness:{block:15,sky:15},Rotation:[0f,0f],transformation:{translation:[0f,0f,0f],right_rotation:[0f,0f,0f,1f],left_rotation:[-0.7071068f,0f,0f,0.7071068f],scale:[0.5f,0.5f,0.5f]}}

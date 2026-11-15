@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cave_vines",
+    "minecraft:cave_vines_plant",
+    "minecraft:copper_torch",
+    "minecraft:copper_wall_torch",
+    "minecraft:torch",
+    "minecraft:wall_torch"
+  ]
+}

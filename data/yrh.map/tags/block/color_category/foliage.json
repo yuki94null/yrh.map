@@ -18,10 +18,6 @@
       "required": false
     },
     {
-      "id": "minecraft:pale_oak_leaves",
-      "required": false
-    },
-    {
       "id": "minecraft:vine",
       "required": false
     }

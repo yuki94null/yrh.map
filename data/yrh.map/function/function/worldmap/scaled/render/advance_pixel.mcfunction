@@ -1,0 +1,3 @@
+data modify storage yrh.map:_ worldmap.active_job.pixel set compute default integer {"type":"minecraft:add","inputs":[{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.active_job.pixel","fallback":0},1]}
+data modify storage yrh.map:_ worldmap.scale_sample.column set compute default integer {"type":"minecraft:mod","left":{"type":"minecraft:storage","storage":"yrh.map:_","path":"worldmap.active_job.pixel","fallback":0},"right":16}
+execute if data storage yrh.map:_ worldmap.scale_sample{column:0} unless data storage yrh.map:_ worldmap.active_job{pixel:256} run data modify storage yrh.map:_ worldmap.text.extra append value {text:"\n",font:"yrh.map:map_pixel",shadow_color:0}

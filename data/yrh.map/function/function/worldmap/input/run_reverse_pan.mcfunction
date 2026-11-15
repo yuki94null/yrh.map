@@ -1,0 +1,4 @@
+$execute if entity @s[tag=yrh.map.pan_control.size] as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=$(map_id)},limit=1] at @s if data entity @s data.yrhmap{Owner:$(player)} run return run function yrh.map:function/worldmap/input/run_resize_control {action:"$(action)",player:$(player)}
+execute if entity @s[tag=yrh.map.pan_control.size] run return run function yrh.map:function/worldmap/input/cannot_operate_click with storage yrh.map:_ worldmap.click
+$execute as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=$(map_id)},limit=1] at @s if score #map_click_access yrh_map_tmp matches 1.. run return run function yrh.map:function/worldmap/input/run_pan_action {map_id:$(map_id),action:"$(action)",message:"$(message)",fallback:"$(fallback)",player:$(player)}
+function yrh.map:function/worldmap/input/cannot_operate_click with storage yrh.map:_ worldmap.click

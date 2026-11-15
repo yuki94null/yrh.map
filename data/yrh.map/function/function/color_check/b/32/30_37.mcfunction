@@ -1,1 +1,1 @@
-data modify storage yrh.map:_ tmp.b set value 48
+data modify storage yrh.map:_ color_lookup.b set value 48

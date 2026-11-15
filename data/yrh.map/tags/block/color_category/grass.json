@@ -30,10 +30,6 @@
       "required": false
     },
     {
-      "id": "minecraft:pale_oak_leaves",
-      "required": false
-    },
-    {
       "id": "minecraft:potted_fern",
       "required": false
     },

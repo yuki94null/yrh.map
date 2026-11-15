@@ -1,0 +1,512 @@
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:furnace ALL=[0, 13]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:furnace}[facing=north,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:furnace}[facing=south,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:furnace}[facing=west,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:furnace}[facing=east,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:redstone_ore ALL=[0, 9]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_ore}[lit=true]=9
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:deepslate_redstone_ore ALL=[0, 9]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:deepslate_redstone_ore}[lit=true]=9
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:redstone_torch ALL=[0, 7]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_torch}[lit=true]=7
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:redstone_wall_torch ALL=[0, 7]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_wall_torch}[facing=north,lit=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_wall_torch}[facing=south,lit=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_wall_torch}[facing=west,lit=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_wall_torch}[facing=east,lit=true]=7
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:glow_lichen ALL=[0, 7]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=true,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=true,north=false,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=true,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=true,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=false,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=false,up=true,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=false,up=true,waterlogged=true,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=false,up=false,waterlogged=true,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:glow_lichen}[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]=7
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:redstone_lamp ALL=[0, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:redstone_lamp}[lit=true]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:light ALL=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=1,waterlogged=true]=1
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=1,waterlogged=false]=1
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=2,waterlogged=true]=2
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=2,waterlogged=false]=2
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=3,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=3,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=4,waterlogged=true]=4
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=4,waterlogged=false]=4
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=5,waterlogged=true]=5
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=5,waterlogged=false]=5
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=6,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=6,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=7,waterlogged=true]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=7,waterlogged=false]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=8,waterlogged=true]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=8,waterlogged=false]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=9,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=9,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=10,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=10,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=11,waterlogged=true]=11
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=11,waterlogged=false]=11
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=12,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=12,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=13,waterlogged=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=13,waterlogged=false]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=14,waterlogged=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=14,waterlogged=false]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=15,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light}[level=15,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:sea_pickle ALL=[0, 6, 9, 12, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:sea_pickle}[pickles=1,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:sea_pickle}[pickles=2,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:sea_pickle}[pickles=3,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:sea_pickle}[pickles=4,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:smoker ALL=[0, 13]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:smoker}[facing=north,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:smoker}[facing=south,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:smoker}[facing=west,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:smoker}[facing=east,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:blast_furnace ALL=[0, 13]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blast_furnace}[facing=north,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blast_furnace}[facing=south,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blast_furnace}[facing=west,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blast_furnace}[facing=east,lit=true]=13
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:campfire ALL=[0, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=north,lit=true,signal_fire=true,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=north,lit=true,signal_fire=true,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=north,lit=true,signal_fire=false,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=north,lit=true,signal_fire=false,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=south,lit=true,signal_fire=true,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=south,lit=true,signal_fire=true,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=south,lit=true,signal_fire=false,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=south,lit=true,signal_fire=false,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=west,lit=true,signal_fire=true,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=west,lit=true,signal_fire=true,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=west,lit=true,signal_fire=false,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=west,lit=true,signal_fire=false,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=east,lit=true,signal_fire=true,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=east,lit=true,signal_fire=true,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=east,lit=true,signal_fire=false,waterlogged=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:campfire}[facing=east,lit=true,signal_fire=false,waterlogged=false]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:soul_campfire ALL=[0, 10]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=north,lit=true,signal_fire=true,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=north,lit=true,signal_fire=true,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=north,lit=true,signal_fire=false,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=north,lit=true,signal_fire=false,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=south,lit=true,signal_fire=true,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=south,lit=true,signal_fire=true,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=south,lit=true,signal_fire=false,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=south,lit=true,signal_fire=false,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=west,lit=true,signal_fire=true,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=west,lit=true,signal_fire=true,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=west,lit=true,signal_fire=false,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=west,lit=true,signal_fire=false,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=east,lit=true,signal_fire=true,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=east,lit=true,signal_fire=true,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=east,lit=true,signal_fire=false,waterlogged=true]=10
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:soul_campfire}[facing=east,lit=true,signal_fire=false,waterlogged=false]=10
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:respawn_anchor ALL=[0, 3, 7, 11, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:respawn_anchor}[charges=1]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:respawn_anchor}[charges=2]=7
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:respawn_anchor}[charges=3]=11
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:respawn_anchor}[charges=4]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:white_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:orange_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:magenta_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:light_blue_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:yellow_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:lime_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:pink_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:gray_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:light_gray_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:cyan_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:purple_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:blue_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:brown_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:green_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:red_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:black_candle ALL=[0, 3, 6, 9, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=1,lit=true,waterlogged=true]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=1,lit=true,waterlogged=false]=3
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=2,lit=true,waterlogged=true]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=2,lit=true,waterlogged=false]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=3,lit=true,waterlogged=true]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=3,lit=true,waterlogged=false]=9
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=4,lit=true,waterlogged=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle}[candles=4,lit=true,waterlogged=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:white_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:white_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:orange_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:orange_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:magenta_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:magenta_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:light_blue_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_blue_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:yellow_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:yellow_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:lime_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:lime_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:pink_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:pink_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:gray_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:gray_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:light_gray_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:light_gray_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:cyan_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cyan_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:purple_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:purple_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:blue_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:blue_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:brown_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:brown_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:green_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:green_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:red_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:red_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:black_candle_cake ALL=[0, 3]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:black_candle_cake}[lit=true]=3
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:copper_bulb ALL=[0, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:copper_bulb}[lit=true,powered=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:copper_bulb}[lit=true,powered=false]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:exposed_copper_bulb ALL=[0, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:exposed_copper_bulb}[lit=true,powered=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:exposed_copper_bulb}[lit=true,powered=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:weathered_copper_bulb ALL=[0, 8]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:weathered_copper_bulb}[lit=true,powered=true]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:weathered_copper_bulb}[lit=true,powered=false]=8
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:oxidized_copper_bulb ALL=[0, 4]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:oxidized_copper_bulb}[lit=true,powered=true]=4
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:oxidized_copper_bulb}[lit=true,powered=false]=4
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:waxed_copper_bulb ALL=[0, 15]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_copper_bulb}[lit=true,powered=true]=15
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_copper_bulb}[lit=true,powered=false]=15
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:waxed_exposed_copper_bulb ALL=[0, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_exposed_copper_bulb}[lit=true,powered=true]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_exposed_copper_bulb}[lit=true,powered=false]=12
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:waxed_weathered_copper_bulb ALL=[0, 8]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_weathered_copper_bulb}[lit=true,powered=true]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_weathered_copper_bulb}[lit=true,powered=false]=8
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:waxed_oxidized_copper_bulb ALL=[0, 4]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_oxidized_copper_bulb}[lit=true,powered=true]=4
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:waxed_oxidized_copper_bulb}[lit=true,powered=false]=4
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:cave_vines ALL=[0, 14]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=0,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=1,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=2,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=3,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=4,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=5,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=6,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=7,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=8,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=9,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=10,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=11,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=12,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=13,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=14,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=15,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=16,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=17,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=18,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=19,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=20,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=21,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=22,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=23,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=24,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines}[age=25,berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:cave_vines_plant ALL=[0, 14]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:cave_vines_plant}[berries=true]=14
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:trial_spawner ALL=[0, 4, 8]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=true,trial_spawner_state=waiting_for_players]=4
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=true,trial_spawner_state=active]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=true,trial_spawner_state=waiting_for_reward_ejection]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=true,trial_spawner_state=ejecting_reward]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=false,trial_spawner_state=waiting_for_players]=4
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=false,trial_spawner_state=active]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=false,trial_spawner_state=waiting_for_reward_ejection]=8
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:trial_spawner}[ominous=false,trial_spawner_state=ejecting_reward]=8
+[16:46:23] [main/INFO]: [STDOUT]: minecraft:vault ALL=[6, 12]
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=true,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=true,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=true,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=true,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=false,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=false,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=false,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=north,ominous=false,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=true,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=true,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=true,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=true,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=false,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=false,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=false,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=south,ominous=false,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=true,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=true,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=true,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=true,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=false,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=false,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=false,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=west,ominous=false,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=true,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=true,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=true,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=true,vault_state=ejecting]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=false,vault_state=inactive]=6
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=false,vault_state=active]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=false,vault_state=unlocking]=12
+[16:46:23] [main/INFO]: [STDOUT]:   Block{minecraft:vault}[facing=east,ominous=false,vault_state=ejecting]=12

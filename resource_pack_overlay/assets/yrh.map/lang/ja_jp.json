@@ -1,0 +1,21 @@
+{
+  "yrh.map.cannot_operate": "この地図は操作できません",
+  "yrh.map.overworld_only": "地図はオーバーワールドに設置できます。",
+  "yrh.map.no_space": "地図の設置に必要な空間がありません。",
+  "yrh.map.remove_owner": "地図を撤去できるのは設置者だけです。",
+  "yrh.map.removed": "地図を撤去しました",
+  "yrh.map.remove_unloaded": "地図の周辺が未ロードのため撤去できません",
+  "yrh.map.pin_owner": "地図の固定を切り替えられるのは設置者だけです。",
+  "yrh.map.not_placed": "設置中の地図はありません。",
+  "yrh.map.north": "↑ 北へ移動",
+  "yrh.map.south": "↓ 南へ移動",
+  "yrh.map.east": "→ 東へ移動",
+  "yrh.map.west": "← 西へ移動",
+  "yrh.map.resize": "地図のサイズを切り替えました",
+  "yrh.map.home": "設置地点を表示",
+  "yrh.map.reload": "地図の更新を要求しました",
+  "yrh.map.pinned": "地図を固定しました",
+  "yrh.map.unpinned": "地図の固定を解除しました",
+  "yrh.map.already_placed": "設置済みの地図があります。座標 %s（オーバーワールド）",
+  "yrh.map.location": "地図の設置座標 %s（オーバーワールド、X・Y・Z）"
+}

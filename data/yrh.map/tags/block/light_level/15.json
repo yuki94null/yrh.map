@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beacon",
+    "minecraft:campfire",
+    "minecraft:conduit",
+    "minecraft:end_gateway",
+    "minecraft:end_portal",
+    "minecraft:fire",
+    "minecraft:glowstone",
+    "minecraft:jack_o_lantern",
+    "minecraft:lantern",
+    "minecraft:lava",
+    "minecraft:lava_cauldron",
+    "minecraft:light",
+    "minecraft:ochre_froglight",
+    "minecraft:pearlescent_froglight",
+    "minecraft:redstone_lamp",
+    "minecraft:respawn_anchor",
+    "minecraft:sea_lantern",
+    "minecraft:sea_pickle",
+    "minecraft:shroomlight",
+    "minecraft:trial_spawner",
+    "minecraft:vault",
+    "minecraft:verdant_froglight"
+  ]
+}

@@ -1,0 +1,4 @@
+data modify storage yrh.map:_ worldmap.revision set value {own:0,north:0,west:0}
+$execute if data storage yrh.map:render "minecraft:over_world".scale_1.chunks."$(x),$(z)"{complete:1b} run data modify storage yrh.map:_ worldmap.revision.own set from storage yrh.map:render "minecraft:over_world".scale_1.chunks."$(x),$(z)".revision
+$execute if data storage yrh.map:render "minecraft:over_world".scale_1.chunks."$(x),$(north)"{complete:1b} run data modify storage yrh.map:_ worldmap.revision.north set from storage yrh.map:render "minecraft:over_world".scale_1.chunks."$(x),$(north)".revision
+$execute if data storage yrh.map:render "minecraft:over_world".scale_1.chunks."$(west),$(z)"{complete:1b} run data modify storage yrh.map:_ worldmap.revision.west set from storage yrh.map:render "minecraft:over_world".scale_1.chunks."$(west),$(z)".revision

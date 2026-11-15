@@ -1,0 +1,69 @@
+[15:58:01] [main/INFO]: Running GameTestMain with cwd 'C:\Users\mainuser\AppData\Local\Temp\yrh-map-gametest-5zwjn1xs', universe path 'world'
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.joml.MemUtil$MemUtilUnsafe (file:/C:/Users/mainuser/AppData/Roaming/.minecraft/libraries/org/joml/joml/1.10.9/joml-1.10.9.jar)
+WARNING: Please consider reporting this to the maintainers of class org.joml.MemUtil$MemUtilUnsafe
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[15:59:37] [main/INFO]: Included folder pack yrh.map
+[15:59:40] [Worker-Main-3/INFO]: Loaded 1868 advancements
+[15:59:41] [Server thread/INFO]: Selecting global world spawn...
+[15:59:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:59:42] [Server thread/INFO]: Preparing spawn area: 100%
+[15:59:42] [Server thread/INFO]: Time elapsed: 418 ms
+[15:59:42] [Server thread/INFO]: Each test that matches yrh_syntax_check:pack_loaded will be run 1 times (total: 1)
+[15:59:42] [Server thread/INFO]: Started game test server
+[15:59:42] [Server thread/INFO]: 1 tests are now running at position 4281769, 4, -7937907!
+[15:59:42] [Server thread/INFO]: Running test environment 'minecraft:default' batch 0 (1 tests)...
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:42] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [ ]
+[15:59:43] [Server thread/INFO]: [+]
+[15:59:43] [Server thread/INFO]: ========= 1 GAME TESTS COMPLETE IN 1.030 s ======================
+[15:59:43] [Server thread/INFO]: All 1 required tests passed :)
+[15:59:43] [Server thread/INFO]: ====================================================
+[15:59:43] [Server thread/INFO]: Stopping server
+[15:59:43] [Server thread/INFO]: Saving players
+[15:59:43] [Server thread/INFO]: Saving worlds
+[15:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test Level]'/minecraft:overworld
+[15:59:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test Level]'/minecraft:the_end
+[15:59:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test Level]'/minecraft:the_nether
+[15:59:44] [Server thread/INFO]: Game test server shutting down

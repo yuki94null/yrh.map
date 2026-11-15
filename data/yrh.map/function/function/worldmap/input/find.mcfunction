@@ -1,0 +1,1 @@
+$execute as @e[type=minecraft:interaction,tag=yrh.map.pan_control,distance=..12,nbt={$(event):{player:$(player)}},sort=nearest,limit=1] at @s run function yrh.map:function/worldmap/input/consume {event:"$(event)",side:"$(side)"}

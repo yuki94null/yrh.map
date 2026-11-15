@@ -1,0 +1,5 @@
+[15:52:33] [main/INFO]: Running GameTestMain with cwd 'C:\Users\mainuser\AppData\Local\Packages\sandbox.{43940133-9e0a-449a-aaf6-1fb4a84b8978}\AC\Temp\yrh-map-gametest-y1oit6ru', universe path 'world'
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.joml.MemUtil$MemUtilUnsafe (file:/C:/Users/mainuser/AppData/Roaming/.minecraft/libraries/org/joml/joml/1.10.9/joml-1.10.9.jar)
+WARNING: Please consider reporting this to the maintainers of class org.joml.MemUtil$MemUtilUnsafe
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release

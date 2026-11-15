@@ -1,0 +1,2 @@
+# Land: factor = clamp(1 + (height - 60) / 160, 0.65, 1.45)
+data modify storage yrh.map:_ sample.height_factor set compute default float {type:"minecraft:min",inputs:[1.45,{type:"minecraft:max",inputs:[0.65,{type:"minecraft:add",inputs:[1.0,{type:"minecraft:div",left:{type:"minecraft:sub",left:{type:"minecraft:storage",storage:"yrh.map:_",path:"sample.height",fallback:60.0},right:60.0},right:160.0}]}]}]}

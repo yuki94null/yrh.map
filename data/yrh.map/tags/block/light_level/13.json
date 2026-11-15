@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blast_furnace",
+    "minecraft:copper_bulb",
+    "minecraft:furnace",
+    "minecraft:smoker",
+    "minecraft:waxed_copper_bulb"
+  ]
+}

@@ -1,0 +1,3 @@
+data modify storage yrh.map:_ render.light set value 0
+$execute if data storage yrh.map:surface "minecraft:over_world".$(x)[].$(z).brightness run data modify storage yrh.map:_ render.light set from storage yrh.map:surface "minecraft:over_world".$(x)[].$(z).brightness
+data modify storage yrh.map:_ render.max_light set compute default integer {"type":"minecraft:max","inputs":[{"type":"minecraft:storage","storage":"yrh.map:_","path":"render.max_light","fallback":0},{"type":"minecraft:max","inputs":[0,{"type":"minecraft:sub","left":{"type":"minecraft:storage","storage":"yrh.map:_","path":"render.light","fallback":0},"right":{"type":"minecraft:storage","storage":"yrh.map:_","path":"render.neighbor.distance","fallback":0}}]}]}

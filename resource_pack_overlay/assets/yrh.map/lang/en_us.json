@@ -1,0 +1,21 @@
+{
+  "yrh.map.cannot_operate": "This map cannot be operated.",
+  "yrh.map.overworld_only": "Maps can be placed in the Overworld.",
+  "yrh.map.no_space": "There is not enough room to place the map.",
+  "yrh.map.remove_owner": "Only the owner can remove this map.",
+  "yrh.map.removed": "Map removed.",
+  "yrh.map.remove_unloaded": "Cannot remove the map while nearby chunks are unloaded.",
+  "yrh.map.pin_owner": "Only the owner can pin or unpin this map.",
+  "yrh.map.not_placed": "You have no placed map.",
+  "yrh.map.north": "↑ Panned north",
+  "yrh.map.south": "↓ Panned south",
+  "yrh.map.east": "→ Panned east",
+  "yrh.map.west": "← Panned west",
+  "yrh.map.resize": "Map size changed",
+  "yrh.map.home": "Showing the placement location",
+  "yrh.map.reload": "Map refresh requested",
+  "yrh.map.pinned": "Map pinned",
+  "yrh.map.unpinned": "Map unpinned",
+  "yrh.map.already_placed": "You already have a map at %s (Overworld).",
+  "yrh.map.location": "Map location: %s (Overworld, X/Y/Z)"
+}

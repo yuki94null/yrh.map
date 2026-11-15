@@ -1,0 +1,8 @@
+$execute unless data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality).scale_1 if data storage yrh.map:_ worldmap.cache_probe{quality:"full"} if data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).scale_1 run return run function yrh.map:function/worldmap/show_cached_tile_from_storage_legacy with storage yrh.map:_ worldmap.cache_probe
+$execute if data storage yrh.map:_ worldmap.cache_probe{quality:"full"} unless data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).full.scale_1 if data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).flat.scale_1 run return run function yrh.map:function/worldmap/show_flat_preview
+$execute if data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality){layout:3} run data modify entity @s line_width set value 512
+$execute if data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality){layout:2} run data modify entity @s line_width set value 512
+$execute unless data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality){layout:2} unless data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality){layout:3} run data modify entity @s line_width set value 152
+$execute if data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality).scale_1 run data modify entity @s text set from storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality).scale_1
+$execute if data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality).scale_1 run scoreboard players add #text_cache_hits yrh_map_tmp 1
+$execute unless data storage yrh.map:worldmap_text chunks.c_$(x)_$(z).$(quality).scale_1 run function yrh.map:function/worldmap/blank_pan_tile

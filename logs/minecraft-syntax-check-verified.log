@@ -1,0 +1,213 @@
+[15:55:56] [main/INFO]: Running GameTestMain with cwd 'C:\Users\mainuser\AppData\Local\Temp\yrh-map-gametest-50kqn8xx', universe path 'world'
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.joml.MemUtil$MemUtilUnsafe (file:/C:/Users/mainuser/AppData/Roaming/.minecraft/libraries/org/joml/joml/1.10.9/joml-1.10.9.jar)
+WARNING: Please consider reporting this to the maintainers of class org.joml.MemUtil$MemUtilUnsafe
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[15:57:11] [main/INFO]: Included folder pack yrh.map
+[15:57:14] [Worker-Main-3/INFO]: Loaded 1868 advancements
+[15:57:14] [main/ERROR]: Failed to load function yrh_syntax_check:function/worldmap/merge_row_cell
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid NBT path element at position 109: ....extra[-1]<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid NBT path element at position 109: ....extra[-1]<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:81)
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:85)
+	... 9 more
+[15:57:14] [Server thread/INFO]: Selecting global world spawn...
+[15:57:15] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:57:15] [Server thread/INFO]: Preparing spawn area: 100%
+[15:57:15] [Server thread/INFO]: Time elapsed: 399 ms
+[15:57:15] [Server thread/INFO]: Each test that matches yrh_syntax_check:pack_loaded will be run 1 times (total: 1)
+[15:57:15] [Server thread/INFO]: Started game test server
+[15:57:15] [Server thread/INFO]: 1 tests are now running at position 9075189, 4, 12074936!
+[15:57:15] [Server thread/INFO]: Running test environment 'minecraft:default' batch 0 (1 tests)...
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:15] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [ ]
+[15:57:16] [Server thread/INFO]: [+]
+[15:57:16] [Server thread/INFO]: ========= 1 GAME TESTS COMPLETE IN 841.3 ms ======================
+[15:57:16] [Server thread/INFO]: All 1 required tests passed :)
+[15:57:16] [Server thread/INFO]: ====================================================
+[15:57:16] [Server thread/INFO]: Stopping server
+[15:57:16] [Server thread/INFO]: Saving players
+[15:57:16] [Server thread/INFO]: Saving worlds
+[15:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test Level]'/minecraft:overworld
+[15:57:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test Level]'/minecraft:the_end
+[15:57:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test Level]'/minecraft:the_nether
+[15:57:17] [Server thread/INFO]: Game test server shutting down

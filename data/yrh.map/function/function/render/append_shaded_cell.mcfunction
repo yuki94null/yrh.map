@@ -1,0 +1,1 @@
+$data modify storage yrh.map:_ render.c$(i) set value {text:"",extra:[{text:"■",font:"yrh.map:map_pixel",color:"#$(color)",shadow_color:0},{text:"$(shadow_glyph)",font:"yrh.map:map_pixel",color:"#$(color)",shadow_color:0},{text:"$(highlight_glyph)",font:"yrh.map:map_pixel",color:"#$(highlight)",shadow_color:0}]}
