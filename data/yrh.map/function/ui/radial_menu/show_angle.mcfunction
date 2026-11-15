@@ -1,0 +1,5 @@
+execute unless score #radial_depth yrh_map_tmp matches 342.. run return run title @s actionbar {text:"70°超 ｜ 視点を戻してください",color:"gray"}
+function yrh.map:ui/radial_menu/measure_angle
+execute if score #radial_depth yrh_map_tmp matches ..865 run return run title @s actionbar [{nbt:"tmp.direction",storage:"yrh.map:ui"},{text:" "},{score:{name:"#radial_degrees",objective:"yrh_map_tmp"}},{text:"."},{score:{name:"#radial_tenths",objective:"yrh_map_tmp"}},{text:"°  視点を30°以内に戻してください",color:"gray"}]
+execute if data storage yrh.map:ui tmp.selected run return run title @s actionbar [{nbt:"tmp.direction",storage:"yrh.map:ui"},{text:" "},{score:{name:"#radial_degrees",objective:"yrh_map_tmp"}},{text:"."},{score:{name:"#radial_tenths",objective:"yrh_map_tmp"}},{text:"° / 7°"},{text:"  ▶ ",color:"aqua"},{nbt:"tmp.selected.label",storage:"yrh.map:ui",color:"aqua"},{text:"  Ctrlを離して決定",color:"gray"}]
+title @s actionbar [{nbt:"tmp.direction",storage:"yrh.map:ui"},{text:" "},{score:{name:"#radial_degrees",objective:"yrh_map_tmp"}},{text:"."},{score:{name:"#radial_tenths",objective:"yrh_map_tmp"}},{text:"° / 7°"},{text:"  視点を振って選択",color:"gray"}]

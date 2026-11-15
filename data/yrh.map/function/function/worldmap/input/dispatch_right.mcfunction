@@ -1,4 +1,7 @@
 execute store result score #map_click_access yrh_map_tmp run function yrh.map:function/worldmap/input/resolve_access with storage yrh.map:_ worldmap.click
+execute if entity @s[tag=yrh.map.waypoint_placement] run return run function yrh.map:function/worldmap/waypoint/placement/dispatch with storage yrh.map:_ worldmap.click
+execute if entity @s[tag=yrh.map.waypoint_hitbox] run return run function yrh.map:function/worldmap/waypoint/markers/click
+execute if entity @s[tag=yrh.map.pan_control.diagonal] run return run function yrh.map:function/worldmap/controller/click_diagonal
 execute if entity @s[tag=yrh.map.pan_control.waypoint_appearance] run return run function yrh.map:function/worldmap/waypoint/appearance/right
 execute if entity @s[tag=yrh.map.pan_control.waypoint_visibility] run return run function yrh.map:function/worldmap/waypoint/markers/visibility_click with storage yrh.map:_ worldmap.click
 execute if entity @s[tag=yrh.map.pan_control.waypoint_delete] run return run function yrh.map:function/worldmap/waypoint/slot_delete

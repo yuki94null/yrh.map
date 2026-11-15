@@ -1,0 +1,2 @@
+$data modify entity @e[type=minecraft:text_display,tag=yrh.map.foot_controller,tag=yrh.map.controller.size,scores={yrh_map_id=$(map_id)},limit=1] text set value {text:"$(size)×$(size)",color:"white",shadow_color:0}
+$data modify entity @e[type=minecraft:text_display,tag=yrh.map.foot_controller,tag=yrh.map.controller.scale,scores={yrh_map_id=$(map_id)},limit=1] text set value {text:"1:$(scale)",color:"white",shadow_color:0}

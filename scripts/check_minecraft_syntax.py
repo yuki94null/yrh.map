@@ -24,7 +24,8 @@ ERROR = re.compile(
 MACRO_TOKEN = re.compile(r"\$\(([A-Za-z0-9_]+)\)")
 MACRO_EXAMPLES = {
     "Owner": "[I;1,2,3,4]", "anchor": "[I;1,2,3,4]",
-    "owner": "[I;1,2,3,4]", "player": "[I;1,2,3,4]",
+    "owner": "[I;1,2,3,4]", "player": "[I;1,2,3,4]", "UUID": "[I;1,2,3,4]",
+    "field": "eye",
     "appearance_action": "reset", "action": "pan_north", "event": "interaction", "side": "right",
     "quality": "full", "mode": "average",
     "color": "334455", "highlight": "667788",
@@ -33,10 +34,10 @@ MACRO_EXAMPLES = {
     "r": "33", "g": "44", "b": "55", "hr": "66", "hg": "77", "hb": "88",
 }
 MACRO_NUMBERS = {
-    "b_hi", "b_lo", "cx", "cz", "dx", "dz", "from", "g_hi", "g_lo", "height",
+    "b_hi", "b_lo", "base_yaw", "base_pitch", "cx", "cz", "dx", "dz", "from", "g_hi", "g_lo", "height",
     "height_factor", "highlight_mask", "i", "id", "index", "interval", "lx", "lz",
-    "map_id", "palette_slot", "north", "nx", "nz", "own", "page", "posX", "posZ", "r_hi", "r_lo",
-    "revision", "scale", "shadow_mask", "slot", "span", "start_revision", "sx",
+    "map_id", "palette_slot", "north", "nx", "nz", "own", "page", "posX", "posZ", "px", "py", "r_hi", "r_lo",
+    "revision", "scale", "shade", "shadow_mask", "size", "slot", "span", "start_revision", "sx",
     "sz", "to", "u0", "u1", "u2", "u3", "water", "west", "x", "y", "z",
 }
 

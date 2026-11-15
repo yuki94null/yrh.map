@@ -1,4 +1,5 @@
 function yrh.map:function/worldmap/waypoint/read_page
+$execute if score #waypoint_page yrh_map_tmp matches 1.. if data storage yrh.map:_ worldmap.click{appearance_action:"$(action)"} if data storage yrh.map:_ worldmap.click{appearance_action:"set"} run return run function yrh.map:function/worldmap/waypoint/select
 execute if score #waypoint_page yrh_map_tmp matches 1.. run return run function yrh.map:function/worldmap/input/cannot_operate_click with storage yrh.map:_ worldmap.click
 function yrh.map:function/worldmap/waypoint/prepare_clicked_slot
 data remove storage yrh.map:_ worldmap.waypoint_admin.pin

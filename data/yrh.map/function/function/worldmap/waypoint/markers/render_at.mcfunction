@@ -1,4 +1,5 @@
 $execute positioned ~$(dx) ~1.045 ~$(dz) positioned ~ ~ ~-0.5 summon minecraft:item_display run function yrh.map:function/worldmap/waypoint/markers/setup_item
+$execute positioned ~$(dx) ~1.005 ~$(dz) positioned ~ ~ ~-0.5 summon minecraft:interaction run function yrh.map:function/worldmap/waypoint/markers/setup_hitbox
 $execute if data storage yrh.map:_ worldmap.waypoint_draw.item.components."minecraft:custom_name" positioned ~$(dx) ~1.09 ~$(dz) positioned ~ ~ ~-0.24 summon minecraft:text_display run function yrh.map:function/worldmap/waypoint/markers/setup_custom_name
 $execute if score #waypoint_page yrh_map_tmp matches 1.. if data storage yrh.map:_ worldmap.waypoint_draw.item.components."minecraft:custom_name" positioned ~$(dx) ~1.135 ~$(dz) positioned ~ ~ ~-0.06 summon minecraft:text_display run function yrh.map:function/worldmap/waypoint/markers/setup_author
 $execute if score #waypoint_page yrh_map_tmp matches 1.. unless data storage yrh.map:_ worldmap.waypoint_draw.item.components."minecraft:custom_name" positioned ~$(dx) ~1.135 ~$(dz) positioned ~ ~ ~-0.24 summon minecraft:text_display run function yrh.map:function/worldmap/waypoint/markers/setup_author

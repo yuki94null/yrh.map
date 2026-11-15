@@ -4,7 +4,7 @@ execute if entity @s[tag=yrh.map.waypoint_shared_pending] run function yrh.map:f
 tag @s remove yrh.map.waypoint_shared_pending
 function yrh.map:function/worldmap/waypoint/markers/refresh_visibility_label
 function yrh.map:function/worldmap/waypoint/read_page
-data modify storage yrh.map:_ worldmap.waypoint_draw set value {slot:1,index:0,scale:1}
+data modify storage yrh.map:_ worldmap.waypoint_draw set value {slot:1,index:0}
 data modify storage yrh.map:_ worldmap.waypoint_draw.owner set from entity @s data.yrhmap.Owner
 data modify storage yrh.map:_ worldmap.owner_uuid set from storage yrh.map:_ worldmap.waypoint_draw.owner
 function yrh.map:function/worldmap/owner_key
@@ -19,3 +19,4 @@ execute if score #waypoint_page yrh_map_tmp matches 1.. run scoreboard players r
 scoreboard players set #waypoint_draw_page_size yrh_map_tmp 12
 scoreboard players operation #waypoint_draw_index yrh_map_tmp *= #waypoint_draw_page_size yrh_map_tmp
 function yrh.map:function/worldmap/waypoint/markers/refresh_loop
+execute unless entity @s[tag=yrh.map.rim_controls_hidden] run function yrh.map:function/worldmap/waypoint/markers/enable_hitboxes with storage yrh.map:_ worldmap.waypoint_draw

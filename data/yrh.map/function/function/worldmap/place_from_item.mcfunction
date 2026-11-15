@@ -1,8 +1,9 @@
+execute unless entity @s[nbt={OnGround:1b}] run return run title @s actionbar {translate:"yrh.map.must_be_on_ground",fallback:"地面に立って地図を設置してください。",color:"red"}
 scoreboard players set #resize_next yrh_map_tmp 5
 execute if predicate yrh.map:is_sneaking run scoreboard players set #resize_next yrh_map_tmp 11
 scoreboard players operation #requested_size yrh_map_tmp = #resize_next yrh_map_tmp
-execute if score #requested_size yrh_map_tmp matches 5 positioned ~ ~0.001 ~-0.5 align xyz run function yrh.map:function/worldmap/check_space_5
-execute if score #requested_size yrh_map_tmp matches 11 positioned ~ ~0.001 ~-0.5 align xyz run function yrh.map:function/worldmap/check_space_11
+execute if score #requested_size yrh_map_tmp matches 5 positioned ~ ~0.001 ~ align xyz run function yrh.map:function/worldmap/check_space_5
+execute if score #requested_size yrh_map_tmp matches 11 positioned ~ ~0.001 ~ align xyz run function yrh.map:function/worldmap/check_space_11
 execute unless score #resize_next yrh_map_tmp = #requested_size yrh_map_tmp run return run title @s actionbar {translate:"yrh.map.no_space",fallback:"地図の設置に必要な空間がありません。",color:"red"}
 data modify storage yrh.map:_ worldmap.owner_uuid set from entity @s UUID
 function yrh.map:function/worldmap/owner_key

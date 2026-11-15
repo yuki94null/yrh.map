@@ -1,4 +1,4 @@
-"""Generate the twelve waypoint slots and page button for each map size."""
+"""Generate the twelve east and west waypoint slots for each map size."""
 from pathlib import Path
 
 WORLD = Path(__file__).resolve().parents[1] / "data/yrh.map/function/function/worldmap/waypoint/layout"
@@ -6,17 +6,12 @@ WORLD = Path(__file__).resolve().parents[1] / "data/yrh.map/function/function/wo
 PALETTE = ('magenta', 'pink', 'red', 'brown', 'orange', 'yellow', 'lime', 'green', 'cyan', 'light_blue', 'blue', 'purple')
 
 
-def button(x, z, label, action, width, extra="", label_tag="", persistent=True):
+def button(x, z, label, action, width, extra="", label_tag=""):
     tags = f'"yrh.map.pan_control","yrh.map.new_part","yrh.map.waypoint_part","yrh.map.pan_control.{action}"'
-    part_tag = ',"yrh.map.waypoint_part"'
-    if not persistent:
-        tags = tags.replace(part_tag, "")
     display_tags = '"yrh.map.pan_label","yrh.map.new_part","yrh.map.waypoint_part"' + label_tag
-    if not persistent:
-        display_tags = display_tags.replace(part_tag, "")
     return [
         f'summon minecraft:interaction ~{x:g} ~0.65 ~{z:g} {{Tags:[{tags}],width:{width:g}f,height:0.7f,response:1b{extra}}}',
-        f'summon minecraft:text_display ~{x:g} ~1.035 ~{z + .055:g} {{Tags:[{display_tags}],text:{{text:"{label}",color:"white",shadow_color:0}},billboard:"fixed",brightness:{{block:15,sky:15}},Rotation:[0f,0f],transformation:{{translation:[0f,0f,0f],right_rotation:[0f,0f,0f,1f],left_rotation:[-0.7071068f,0f,0f,0.7071068f],scale:[0.5f,0.5f,0.5f]}}}}',
+        f'summon minecraft:text_display ~{x:g} ~1.035 ~{z + .052:g} {{Tags:[{display_tags}],text:{{text:"{label}",color:"white",shadow_color:0}},billboard:"fixed",brightness:{{block:15,sky:15}},Rotation:[0f,0f],transformation:{{translation:[0f,0f,0f],right_rotation:[0f,0f,0f,1f],left_rotation:[-0.7071068f,0f,0f,0.7071068f],scale:[0.48f,0.48f,0.48f]}}}}',
     ]
 
 
@@ -30,8 +25,8 @@ def appearance_button(x, z, slot, width):
         f'{{Tags:["yrh.map.new_part","yrh.map.waypoint_part","yrh.map.waypoint_preview.{slot}"],'
         f'item:{{id:"minecraft:{PALETTE[slot-1]}_stained_glass",count:1}},item_display:"none",'
         'billboard:"fixed",brightness:{block:15,sky:15},transformation:'
-        '{translation:[0f,0f,0f],left_rotation:[-0.7071068f,0f,0f,0.7071068f],right_rotation:[0f,0f,0f,1f],'
-        'scale:[0.30f,0.30f,0.08f]}}',
+        '{translation:[0f,0f,0f],left_rotation:[0.7071068f,0f,0f,0.7071068f],right_rotation:[0f,0f,1f,0f],'
+        'scale:[0.29f,0.29f,0.08f]}}',
     ]
 
 
@@ -40,22 +35,17 @@ for size in (3, 5, 7, 9, 11, 13):
     for side, offset in ((-1, 0), (1, 6)):
         for row in range(6):
             slot = offset + row + 1
-            x = side * (size / 2 + 1.65)
+            strip_center = side * (size / 2 + .50)
+            x = strip_center - side * .25
+            delete_x = strip_center + side * .25
             z = -.5 + (row - 2.5) * size / 6
+            offset_z = min(.24, size / 24)
+            width = min(.40, size / 12 - .045)
             extra = f',data:{{yrhmap:{{WaypointSlot:{slot}}}}}'
-            lines.extend(button(x, z, f"P{slot}", "waypoint", min(.65, size / 6 - .06), extra,
+            lines.extend(button(x, z + offset_z, f"P{slot}", "waypoint", width, extra,
                                 label_tag=f',"yrh.map.waypoint_slot.{slot}"'))
-            lines.extend(button(x + side * .95, z, "×", "waypoint_delete", min(.5, size / 6 - .06), extra))
-            lines.extend(appearance_button(x + side * 1.7, z, slot, min(.5, size / 6 - .06)))
-    lines.extend(button(size / 2 - .35, -size / 2 - 1.25, "PINS", "waypoint_page", .75,
-                        label_tag=',"yrh.map.waypoint_page_label"'))
-    lines.extend(button(0, -size / 2 - 2.15, "OTHERS: ON", "waypoint_visibility", .75,
-                        label_tag=',"yrh.map.waypoint_visibility_label"'))
-    access = button(-size / 2 + .35, -size / 2 - 1.25, "MAP PRIVATE", "access", .75,
-                    label_tag=',"yrh.map.access_label"', persistent=False)
-    access_root = WORLD.parent.parent / "access" / "layout"
-    access_root.mkdir(parents=True, exist_ok=True)
-    (access_root / f"{size}.mcfunction").write_text("\n".join(access) + "\n", encoding="utf-8")
+            lines.extend(appearance_button(x, z - offset_z, slot, width))
+            lines.extend(button(delete_x, z, "☒", "waypoint_delete", width, extra))
     (WORLD / f"{size}.mcfunction").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 (WORLD.parent / "appearance").mkdir(parents=True, exist_ok=True)

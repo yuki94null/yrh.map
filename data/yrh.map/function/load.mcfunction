@@ -30,10 +30,11 @@ scoreboard objectives add yrh_map_use minecraft.used:minecraft.carrot_on_a_stick
 execute if data storage yrh.map:_ worldmap.active_job.map_id[0] run data remove storage yrh.map:_ worldmap.active_job
 
 function yrh.map:function/worldmap/waypoint/appearance/initialize_palette
+function yrh.map:ui/load
 execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor] if data entity @s data.yrhmap.Owner run tag @s add yrh.map.waypoint_visuals_pending
 
 # Keep map text fully lit even when its entity origin intersects a block.
-execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.rim_buttons_v10,scores={yrh_map_id=1..}] at @s if data entity @s data.yrhmap.Owner run function yrh.map:function/worldmap/migrate_rim_buttons
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.rim_buttons_v24,scores={yrh_map_id=1..}] at @s if data entity @s data.yrhmap.Owner run function yrh.map:function/worldmap/migrate_rim_buttons
 execute in minecraft:overworld as @e[type=minecraft:text_display,tag=yrh.map.worldmap_chunk_display] run data modify entity @s brightness set value {block:15,sky:15}
 execute in minecraft:overworld as @e[type=minecraft:text_display,tag=yrh.map.pan_label] run data modify entity @s brightness set value {block:15,sky:15}
 execute in minecraft:overworld as @e[type=minecraft:text_display,tag=yrh.map.worldmap_preview] run data modify entity @s brightness set value {block:15,sky:15}
@@ -47,3 +48,7 @@ scoreboard objectives add yrh_map_floor_wait dummy
 team add yrh_map_floor
 team modify yrh_map_floor collisionRule never
 execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.platform_v1,scores={yrh_map_id=1..}] at @s run function yrh.map:function/worldmap/platform/migrate
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=yrh.map.platform_v1,tag=!yrh.map.floor_height_v2,scores={yrh_map_id=1..}] at @s run function yrh.map:function/worldmap/platform/update_height
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.platform_v3,scores={yrh_map_id=1..}] at @s run function yrh.map:function/worldmap/platform/update_footprint
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.backing_v8,scores={yrh_map_id=1..}] run function yrh.map:function/worldmap/update_map_backing
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=1..}] if data entity @s data.yrhmap{Pinned:1b} run function yrh.map:function/worldmap/refresh_fixed_indicator

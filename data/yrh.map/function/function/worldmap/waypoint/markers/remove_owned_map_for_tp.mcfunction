@@ -1,0 +1,1 @@
+$execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=1..},nbt={UUID:$(anchor),data:{yrhmap:{Owner:$(player)}}},limit=1] at @s run function yrh.map:function/worldmap/remove_owned_map
