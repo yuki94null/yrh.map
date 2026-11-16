@@ -1,6 +1,5 @@
 execute if data entity @s data.yrhmap.WaypointPlacement run function yrh.map:function/worldmap/waypoint/clear_selection
 execute store result storage yrh.map:_ worldmap.resize_owner.map_id int 1 run scoreboard players get @s yrh_map_id
-function yrh.map:function/worldmap/remove_resize_controls with storage yrh.map:_ worldmap.resize_owner
 tag @s remove yrh.map.size_5
 tag @s remove yrh.map.size_7
 tag @s remove yrh.map.size_9
@@ -22,12 +21,12 @@ function yrh.map:function/worldmap/trim_owned_tiles with storage yrh.map:_ world
 data modify storage yrh.map:_ worldmap.resizing set value 1b
 function yrh.map:function/worldmap/create_tiles
 data merge entity @s {width:0f,height:0f}
-function yrh.map:function/worldmap/create_pan_controls
-function yrh.map:function/worldmap/create_map_backing
-function yrh.map:function/worldmap/platform/mark_replaced with storage yrh.map:_ worldmap.resize_owner
-function yrh.map:function/worldmap/platform/create
+execute if data entity @s data.yrhmap.Owner run function yrh.map:function/worldmap/waypoint/move_controls
+function yrh.map:function/worldmap/resize_map_backing
+function yrh.map:function/worldmap/platform/resize
 function yrh.map:function/worldmap/bind_map_parts
 function yrh.map:function/worldmap/controller/refresh_labels
+execute if data entity @s data.yrhmap.Owner run function yrh.map:function/worldmap/waypoint/markers/resize
 execute if data entity @s data.yrhmap{Pinned:1b} run function yrh.map:function/worldmap/refresh_fixed_indicator
 function yrh.map:function/worldmap/refresh_pin_label
 data modify storage yrh.map:_ worldmap.reload set value 1b

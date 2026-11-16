@@ -10,6 +10,13 @@
         {
           "sampler_name": "In",
           "target": "minecraft:main"
+        },
+        {
+          "sampler_name": "Icons",
+          "location": "yrh.map:radial_menu_icons",
+          "width": 384,
+          "height": 64,
+          "bilinear": true
         }
       ],
       "output": "swap",
@@ -24,6 +31,16 @@
             "name": "FixedEnabled",
             "type": "float",
             "value": 1
+          },
+          {
+            "name": "PublicEnabled",
+            "type": "float",
+            "value": 0
+          },
+          {
+            "name": "SharedPinsVisible",
+            "type": "float",
+            "value": 0
           }
         ]
       }

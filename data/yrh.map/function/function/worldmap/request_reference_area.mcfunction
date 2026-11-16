@@ -11,6 +11,7 @@ execute if entity @s[tag=yrh.map.scale_8] run data modify storage yrh.map:_ worl
 execute if entity @s[tag=yrh.map.scale_16] run data modify storage yrh.map:_ worldmap.queue_candidate.scale set value 16
 execute if data storage yrh.map:_ worldmap.queue_candidate.scale run data modify storage yrh.map:_ worldmap.queue_candidate.mode set value "average"
 execute if data storage yrh.map:_ worldmap.queue_candidate.scale if entity @s[tag=yrh.map.scale_representative] run data modify storage yrh.map:_ worldmap.queue_candidate.mode set value "representative"
+execute if data storage yrh.map:_ worldmap.resizing if data storage yrh.map:_ worldmap.queue_candidate.scale run data modify storage yrh.map:_ worldmap.pan set value 1b
 execute if data storage yrh.map:_ worldmap.queue_candidate.scale run return run function yrh.map:function/worldmap/scaled/queue/request
 execute if data storage yrh.map:_ worldmap.queue_candidate{quality:"full"} run function yrh.map:function/worldmap/enqueue_preview_area
 function yrh.map:function/worldmap/enqueue_reference_area with storage yrh.map:_ worldmap.args

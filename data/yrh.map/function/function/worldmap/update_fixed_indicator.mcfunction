@@ -1,0 +1,2 @@
+$execute if entity @e[type=minecraft:item_display,tag=yrh.map.fixed_indicator,scores={yrh_map_id=$(map_id)},limit=1] run return run data modify entity @e[type=minecraft:item_display,tag=yrh.map.fixed_indicator,scores={yrh_map_id=$(map_id)},limit=1] transformation.translation set value [$(x)f,1.15f,$(z)f]
+execute summon minecraft:item_display run function yrh.map:function/worldmap/setup_fixed_indicator with storage yrh.map:_ worldmap.fixed_indicator

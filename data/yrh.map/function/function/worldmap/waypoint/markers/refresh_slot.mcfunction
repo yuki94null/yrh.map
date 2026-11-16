@@ -7,7 +7,8 @@ execute if data storage yrh.map:_ worldmap.waypoint_draw.pin.slot run data modif
 execute if data storage yrh.map:_ worldmap.waypoint_draw.pin.id unless data storage yrh.map:_ worldmap.waypoint_draw.pin.slot run function yrh.map:function/worldmap/waypoint/markers/legacy_palette_slot
 function yrh.map:function/worldmap/waypoint/appearance/resolve_item with storage yrh.map:_ worldmap.waypoint_draw
 function yrh.map:function/worldmap/waypoint/appearance/update_preview with storage yrh.map:_ worldmap.waypoint_draw
+execute if data storage yrh.map:_ worldmap.waypoint_draw{preview_only:1b} run return 0
+execute if score #waypoint_page yrh_map_tmp matches 1.. run return 0
 execute unless data storage yrh.map:_ worldmap.waypoint_draw.pin.x run return 0
 execute unless data storage yrh.map:_ worldmap.waypoint_draw.pin.z run return 0
-$execute if data entity @s data.yrhmap{HideOtherWaypoints:1b} if score #waypoint_page yrh_map_tmp matches 1.. unless data storage yrh.map:_ worldmap.waypoint_draw.pin{author_uuid:$(owner)} run return 0
 function yrh.map:function/worldmap/waypoint/markers/locate

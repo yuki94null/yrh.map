@@ -1,1 +1,2 @@
 execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=yrh.map.waypoint_visuals_pending,limit=1] at @s run function yrh.map:function/worldmap/waypoint/markers/refresh
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=yrh.map.waypoint_public_pending,tag=!yrh.map.waypoint_visuals_pending,limit=1] at @s run function yrh.map:function/worldmap/waypoint/markers/refresh_public_batch

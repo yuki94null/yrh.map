@@ -1,1 +1,3 @@
 $summon minecraft:text_display ~ ~ ~ {Tags:["yrh.map.map_backing","yrh.map.new_part"],text:{text:"",font:"yrh.map:map_background",color:"white",shadow_color:0},line_width:256,alignment:"center",billboard:"fixed",brightness:{block:15,sky:15},text_opacity:255,background:0,default_background:0b,shadow:0b,see_through:0b,transformation:{translation:[0f,0.985f,-0.5f],scale:[$(scale)f,$(scale)f,1f],left_rotation:[-0.7071068f,0f,0f,0.7071068f],right_rotation:[0f,0f,0f,1f]}}
+# Keep the passive click shield below the active waypoint plane and all buttons.
+$summon minecraft:interaction ~ ~0.99 ~-0.5 {Tags:["yrh.map.map_backing","yrh.map.map_click_shield","yrh.map.new_part"],width:$(width)f,height:0.005f,response:0b}

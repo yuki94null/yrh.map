@@ -1,0 +1,1 @@
+$summon minecraft:happy_ghast ~ ~ ~ {Tags:["yrh.map.platform","yrh.map.platform_new","yrh.map.new_part"],NoAI:1b,NoGravity:1b,Motion:[0d,0d,0d],Invulnerable:1b,Silent:1b,PersistenceRequired:1b,still_timeout:2147483647,attributes:[{id:"minecraft:scale",base:$(scale)}],active_effects:[{id:"minecraft:invisibility",duration:-1,show_particles:0b,show_icon:0b}]}

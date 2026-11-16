@@ -1,5 +1,5 @@
 # Execute as the owned map anchor.
-execute unless entity @s[tag=yrh.map.rim_buttons_v24] run function yrh.map:function/worldmap/migrate_rim_buttons
+execute unless entity @s[tag=yrh.map.rim_buttons_v31] run function yrh.map:function/worldmap/migrate_rim_buttons
 execute if entity @s[tag=yrh.map.platform_v1,tag=!yrh.map.platform_v3] run function yrh.map:function/worldmap/platform/update_footprint
 execute store result storage yrh.map:_ worldmap.controller_move.map_id int 1 run scoreboard players get @s yrh_map_id
 scoreboard players set #controller_followed yrh_map_tmp 0

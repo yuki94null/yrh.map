@@ -28,6 +28,7 @@ MACRO_EXAMPLES = {
     "field": "eye",
     "appearance_action": "reset", "action": "pan_north", "event": "interaction", "side": "right",
     "quality": "full", "mode": "average",
+    "width": "0.4",
     "color": "334455", "highlight": "667788",
     "glyph": "■", "highlight_glyph": "■", "shadow_glyph": "■",
     "fallback": "test", "message": "yrh.map.test", "text": "■", "previous": "■",
@@ -38,7 +39,7 @@ MACRO_NUMBERS = {
     "height_factor", "highlight_mask", "i", "id", "index", "interval", "lx", "lz",
     "map_id", "palette_slot", "north", "nx", "nz", "own", "page", "posX", "posZ", "px", "py", "r_hi", "r_lo",
     "revision", "scale", "shade", "shadow_mask", "size", "slot", "span", "start_revision", "sx",
-    "sz", "to", "u0", "u1", "u2", "u3", "water", "west", "x", "y", "z",
+    "sz", "to", "u0", "u1", "u2", "u3", "water", "west", "x", "y", "yaw_offset", "z",
 }
 
 
@@ -72,6 +73,8 @@ def installed_classpath(minecraft_dir):
 
 
 def example_for_macro(key, path):
+    if key == "size" and path.stem == "move_layout_for_size":
+        return "5"
     if key == "slot" and path.stem in {"ensure_resize_tile", "has_resize_tile"}:
         return "yrh.map.tile_p0_p0"
     if path.stem == "color_slot" and key == "color":

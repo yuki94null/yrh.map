@@ -1,4 +1,5 @@
 $kill @e[tag=yrh.map.waypoint_marker,scores={yrh_map_id=$(map_id)}]
+$function yrh.map:function/worldmap/controller/remove_controller {map_id:$(map_id)}
 $kill @e[type=minecraft:item_display,tag=yrh.map.waypoint_part,scores={yrh_map_id=$(map_id)}]
 $execute as @e[type=minecraft:happy_ghast,tag=yrh.map.platform,scores={yrh_map_id=$(map_id)}] at @s run function yrh.map:function/worldmap/platform/retire
 $kill @e[tag=yrh.map.worldmap_chunk_display,scores={yrh_map_id=$(map_id)}]
