@@ -10,4 +10,4 @@ data modify storage yrh.map:_ worldmap.waypoint_draw merge from storage yrh.map:
 execute store result score #waypoint_public_count yrh_map_tmp run data get storage yrh.map:waypoints public
 function yrh.map:function/worldmap/waypoint/markers/prepare_geometry
 scoreboard players set #waypoint_public_budget yrh_map_tmp 16
-function yrh.map:function/worldmap/waypoint/markers/refresh_public_loop
+function yrh.map:function/worldmap/waypoint/markers/public/loop

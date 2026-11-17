@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {"type": "bitmap", "file": "yrh.map:font/map_pixel.png", "height": 10, "ascent": 9, "chars": [
+      "■",
+      "",
+      ""
+    ]},
+    {"type": "space", "advances": {"": -1, "": -10}}
+  ]
+}

@@ -1,3 +1,1 @@
-execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=1..}] if data entity @s data.yrhmap.WaypointPage unless data entity @s data.yrhmap{WaypointPage:0} run tag @s add yrh.map.waypoint_shared_pending
-execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=1..}] if data entity @s data.yrhmap.Owner unless data entity @s data.yrhmap{HideOtherWaypoints:1b} run tag @s add yrh.map.waypoint_visuals_pending
-execute in minecraft:overworld run tag @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=yrh.map.waypoint_shared_pending] add yrh.map.waypoint_visuals_pending
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,scores={yrh_map_id=1..}] run function yrh.map:function/worldmap/waypoint/markers/public/invalidate

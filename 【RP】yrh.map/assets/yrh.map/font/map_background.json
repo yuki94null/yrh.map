@@ -1,0 +1,15 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:map/map_background.png",
+      "height": 128,
+      "ascent": 62,
+      "chars": ["\ue201"]
+    },
+    {
+      "type": "space",
+      "advances": {"\ue202": 1}
+    }
+  ]
+}

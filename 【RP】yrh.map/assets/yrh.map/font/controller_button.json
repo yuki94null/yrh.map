@@ -1,0 +1,49 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "yrh.map:item/controller_button_bg.png",
+      "height": 32,
+      "ascent": 14,
+      "chars": [
+        "\ue203"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "yrh.map:item/reload.png",
+      "height": 32,
+      "ascent": 14,
+      "chars": [
+        "\ue205"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "yrh.map:item/move.png",
+      "height": 32,
+      "ascent": 14,
+      "chars": [
+        "\ue206"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "yrh.map:item/home.png",
+      "height": 32,
+      "ascent": 14,
+      "chars": [
+        "\ue207"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ue204": 1,
+        "\ue208": 3,
+        "\ue209": 3,
+        "\ue20a": 4
+      }
+    }
+  ]
+}

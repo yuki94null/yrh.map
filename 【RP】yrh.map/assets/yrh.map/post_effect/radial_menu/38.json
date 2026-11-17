@@ -1,0 +1,74 @@
+{
+  "targets": {
+    "swap": {}
+  },
+  "passes": [
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "yrh.map:post/radial_menu",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "minecraft:main"
+        },
+        {
+          "sampler_name": "Icons",
+          "location": "yrh.map:radial_menu_icons",
+          "width": 384,
+          "height": 64,
+          "bilinear": true
+        }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "RadialMenuConfig": [
+          {
+            "name": "SelectedSector",
+            "type": "float",
+            "value": 3
+          },
+          {
+            "name": "FixedEnabled",
+            "type": "float",
+            "value": 1
+          },
+          {
+            "name": "PublicEnabled",
+            "type": "float",
+            "value": 0
+          },
+          {
+            "name": "SharedPinsVisible",
+            "type": "float",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "minecraft:post/blit",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "swap"
+        }
+      ],
+      "output": "minecraft:main",
+      "uniforms": {
+        "BlitConfig": [
+          {
+            "name": "ColorModulate",
+            "type": "vec4",
+            "value": [
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -35,7 +35,7 @@ function yrh.map:ui/load
 execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor] if data entity @s data.yrhmap.Owner run tag @s add yrh.map.waypoint_visuals_pending
 
 # Keep map text fully lit even when its entity origin intersects a block.
-execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.rim_buttons_v26,scores={yrh_map_id=1..}] at @s if data entity @s data.yrhmap.Owner run function yrh.map:function/worldmap/migrate_rim_buttons
+execute in minecraft:overworld as @e[type=minecraft:interaction,tag=yrh.map.worldmap_anchor,tag=!yrh.map.rim_buttons_v31,scores={yrh_map_id=1..}] at @s if data entity @s data.yrhmap.Owner run function yrh.map:function/worldmap/migrate_rim_buttons
 execute in minecraft:overworld as @e[type=minecraft:text_display,tag=yrh.map.worldmap_chunk_display] run data modify entity @s brightness set value {block:15,sky:15}
 execute in minecraft:overworld as @e[type=minecraft:text_display,tag=yrh.map.pan_label] run data modify entity @s brightness set value {block:15,sky:15}
 execute in minecraft:overworld as @e[type=minecraft:text_display,tag=yrh.map.worldmap_preview] run data modify entity @s brightness set value {block:15,sky:15}
